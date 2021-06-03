@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Команда Find friends
 
-You can use the [editor on GitHub](https://github.com/Find-Friends-Team/find-friends-team/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Мы — динамично развивающаяся команда. Быстро и качественно разрабатываем приложения.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Состав Правления компании:
+- Люба — Chief design officer,
+- Кирилл — Chief technology officer,
+- Лёша — Chief executive officer.
 
-### Markdown
+> У нас престижно работать!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Приложение «Приведи друга»
 
-```markdown
-Syntax highlighted code block
+Позвольте рассказать вам историю, как Люба оформила карту в банке и не использовала реферальную ссылку! Когда друзья узнали об этом, то очень расстроились: ведь все они остались без бонусов.
 
-# Header 1
-## Header 2
-### Header 3
+Больше такая история не повторится, ведь теперь есть приложение «Приведи друга», с ним
+- вы можете добавить свою реферальную ссылку,
+- друзья, у которых вы записаны в адресной книге, увидят её и оформят по ней заявку на новую карту, продукт — что угодно!
 
-- Bulleted
-- List
+Скачайте приложение сегодня! 
 
-1. Numbered
-2. List
+### Конфиденциальность
 
-**Bold** and _Italic_ and `Code` text
+Мы очень ценим ваши данные, не храним их в открытом виде, не используем сами и позволяем другим.
+Перед добавлением реферальной ссылки или кода вы подтверждаете свой номер телефона. 
+При сохранении рекомендации телефон высчитывает контрольную сумму от номера вашего телефона — именно она хранится на сервере. Даже получив контрольную сумму, из неё нельзя выислить оригинал.
 
-[Link](url) and ![Image](src)
-```
+> +79871234567 превращается в 4a5cbc4eb4331f4a858c4d4a81259b09b9713ce6809e70a56ca5d198e2b432f0
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Поиск рекомендаций от ваших друзей происходит по контрольным суммам, вычисленным из номеров телефонной книги. 
 
-### Jekyll Themes
+Таким образом, на сервер не передаётся ни ваш номер, ни номера ваших друзей.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Find-Friends-Team/find-friends-team/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Контактная информация
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+TBD
