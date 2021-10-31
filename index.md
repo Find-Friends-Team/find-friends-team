@@ -17,9 +17,9 @@
 - вы можете добавить свою реферальную ссылку,
 - друзья, у которых вы записаны в адресной книге, увидят её и оформят по ней заявку на новую карту, продукт — что угодно!
 
-[![Скачайте приложение сегодня в App Store](/images/Download_on_the_App_Store_Badge_RU_RGB_blk_100317.svg)(https://apps.apple.com/us/app/приведи-друга/id1571750423)
+[![Скачайте приложение сегодня в App Store](/images/Download_on_the_App_Store_Badge_RU_RGB_blk_100317.svg)](https://apps.apple.com/us/app/приведи-друга/id1571750423)
 
-<p><a href="https://pages.github.com">Политика конфиденциальности приложения.</a></p>
+<p><a href="/app-policy.html">Политика конфиденциальности приложения.</a></p>
 
 ### Конфиденциальность
 
