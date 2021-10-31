@@ -7,4 +7,4 @@
 
 ## Контакты
 
-e-mail: info@find-friends-team.ru
+e-mail: [info@find-friends-team.ru](mailto:info@find-friends-team.ru)
