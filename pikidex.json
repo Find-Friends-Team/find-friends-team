@@ -1,0 +1,72 @@
+{
+  "collection": [
+    {
+      "icon": "restaurant",
+      "name": "Restaurant",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "local_cafe_outlined",
+      "name": "Cafe",
+      "pikmins": [
+        {
+          "id": 8,
+          "color": "red"
+        },
+        {
+          "id": 9,
+          "color": "yellow"
+        },
+        {
+          "id": 10,
+          "color": "blue"
+        },
+        {
+          "id": 11,
+          "color": "white"
+        },
+        {
+          "id": 12,
+          "color": "purple"
+        },
+        {
+          "id": 13,
+          "color": "grey"
+        },
+        {
+          "id": 14,
+          "color": "pink"
+        }
+      ]
+    }
+  ]
+}
