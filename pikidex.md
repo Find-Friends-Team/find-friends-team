@@ -6,7 +6,7 @@ All progress is saved only on your device.
 
 ## How to use application
 
-Tap on icon, it will change it state:
+Tap on icon, it will change its state:
 - none,
 - in progress (got pikmin and levelling friendship),
 - done (got four hearts of friendship).
