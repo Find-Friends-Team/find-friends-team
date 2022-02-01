@@ -757,6 +757,23 @@
           "color": "blue"
         }
       ]
+    },    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Lunar New Year",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        }
+      ]
     },
     {
       "icon": "edit_road_outlined",
