@@ -54,6 +54,10 @@
 
 Если вы не пытались ранее авторизоваться, напишите нам, пожалуйста, на [feedback@find-friends-team.ru](mailto:feedback@find-friends-team.ru).
 
+## Pikidex App
+
+If you're looking for information about Pikidex mobile application, visit <a href="/pikidex.html">its' own page</a>.
+
 
 ## Команда Find friends
 
