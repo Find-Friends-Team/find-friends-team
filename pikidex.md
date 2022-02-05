@@ -11,6 +11,15 @@ Tap on icon, it will change its state:
 - in progress (got pikmin and levelling friendship),
 - done (got four hearts of friendship).
 
+## Roadmap
+
+Here you can find features, which we want to add to app in (near) future:
+- compact layout. So you could see a lot more on one screen,
+- count of collected decor types,
+- roadside: green, yellow and blue, and winter, too,
+- the number of pikmin with each decor,
+- new icons.
+
 ## Contact
 If you find an inaccuracy, or you have any suggestions, kindly feel free to [send us a word](mailto:pikidex@find-friends-team.ru).
 
