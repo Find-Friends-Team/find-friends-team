@@ -809,5 +809,146 @@
         }
       ]
     }
+  ],
+  "advancedCollection": [
+    {
+      "icon": "sticky_note_2_outlined",
+      "name": "Roadside – Green sticker",
+      "color": "green",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "sticky_note_2_outlined",
+      "name": "Roadside – Blue sticker",
+      "color": "blue",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "sticky_note_2_outlined",
+      "name": "Roadside – Yellow sticker",
+      "color": "yellow",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "ac_unit_outlined",
+      "name": "Roadside – Winter 2021",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    }
   ]
 }
