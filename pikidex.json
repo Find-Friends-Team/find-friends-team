@@ -813,7 +813,7 @@
   "advancedCollection": [
     {
       "icon": "sticky_note_2_outlined",
-      "name": "Roadside – Green sticker",
+      "name": "Green sticker",
       "color": "green",
       "pikmins": [
         {
@@ -848,7 +848,7 @@
     },
     {
       "icon": "sticky_note_2_outlined",
-      "name": "Roadside – Blue sticker",
+      "name": "Blue sticker",
       "color": "blue",
       "pikmins": [
         {
@@ -883,7 +883,7 @@
     },
     {
       "icon": "sticky_note_2_outlined",
-      "name": "Roadside – Yellow sticker",
+      "name": "Yellow sticker",
       "color": "yellow",
       "pikmins": [
         {
