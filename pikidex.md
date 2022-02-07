@@ -4,6 +4,10 @@ This is small, fan built, application. It allows you to track progress of pikimi
 
 All progress is saved only on your device.
 
+Download:
+- [App Store](https://apple.co/3onJKuy),
+- [Google Play](https://bit.ly/3utNQW4).
+
 ## How to use application
 
 Tap on icon, it will change its state:
