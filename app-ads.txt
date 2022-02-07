@@ -1,1 +1,3 @@
-google.com, , DIRECT, f08c47fec0942fa0
+# Ads.txt file for find-friends-team.ru:
+#admob
+google.com, pub-3458213250698004, DIRECT, f08c47fec0942fa0
