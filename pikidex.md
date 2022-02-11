@@ -2,6 +2,8 @@
 
 This is small, fan built, application. It allows you to track progress of pikimin collection in Pikmin Bloom game.
 
+![](images/pikidex-1.2-o.gif)
+
 All progress is saved only on your device.
 
 Download:
@@ -15,13 +17,18 @@ Tap on icon, it will change its state:
 - in progress (got pikmin and levelling friendship),
 - done (got four hearts of friendship).
 
+## Tips and tricks
+
+1. Tap on group header (e.g. Restaurant) to make it compact. ![](images/pikidex-tap-zone.webp)
+2. Double tap group header to collapse all groups. This will switch all your collection to compact mode.
+3. In compact mode: tap on icon of group (first in a row) to expand this group. ![](images/pikidex-compact-tap-zone.webp)
+4. Double tap icon of group to expand all groups. This will switch all your collection to regular mode.
+
 ## Roadmap
 
 Here you can find features, which we want to add to app in (near) future:
-- compact layout. So you could see a lot more on one screen,
-- count of collected decor types,
-- roadside: green, yellow and blue, and winter, too,
-- the number of pikmin with each decor,
+- share your progress: generate some nice image,
+- the number of pikmin with each color and/or decor,
 - new icons.
 
 ## Contact
