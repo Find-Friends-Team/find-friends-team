@@ -1,6 +1,6 @@
 # Pikidex
 
-This is small, fan built, application. It allows you to track progress of pikimin collection in Pikmin Bloom game.
+This is small, fan built, application. It allows you to track and share progress of pikimin collection in Pikmin Bloom game.
 
 ![](images/pikidex-1.2-o.gif)
 
@@ -27,9 +27,9 @@ Tap on icon, it will change its state:
 ## Roadmap
 
 Here you can find features, which we want to add to app in (near) future:
-- share your progress: generate some nice image,
 - the number of pikmin with each color and/or decor,
-- new icons.
+- new icons,
+- track alphabet letters.
 
 ## Contact
 If you find an inaccuracy, or you have any suggestions, kindly feel free to [send us a word](mailto:pikidex@find-friends-team.ru).
