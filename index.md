@@ -67,8 +67,6 @@ If you're looking for information about Pikidex mobile application, visit <a hre
 
 ## Контактная информация
 
-Подпишитесь на [наш аккаунт в Инстаграме](https://instagram.com/referralsappru).
-
 Присылайте предложения новых продуктов, любые идеи на почту [info@find-friends-team.ru](mailto:info@find-friends-team.ru).
 
 О найденных ошибках и отзывы о приложении пишите на [feedback@find-friends-team.ru](mailto:feedback@find-friends-team.ru).
