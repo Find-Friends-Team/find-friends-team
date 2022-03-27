@@ -30,7 +30,8 @@ Tap on icon, it will change its state:
 Here you can find features which we want to add to app in the (near) future:
 - the number of pikmin with each color and/or decor,
 - new icons,
-- track alphabet letters.
+- track alphabet letters,
+- ultra-compact mode, when completed categories are collapsed to an icon and joined together.
 
 ## Contact
 If you find an inaccuracy, or you have any suggestions, kindly feel free to [send us a word](mailto:pikidex@find-friends-team.ru).
