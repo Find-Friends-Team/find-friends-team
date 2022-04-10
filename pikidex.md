@@ -25,6 +25,16 @@ Tap on icon, it will change its state:
 3. In compact mode: tap on icon of the group (first in a row) to expand this group. ![](images/pikidex-compact-tap-zone.webp)
 4. Double tap icon of the group to expand all groups. This will switch all your collection to the regular mode.
 
+## Known issues
+
+### App doesn't start on iOS 14.7.1. 
+
+Reproduced on iPhone 8 and 11.
+
+Workaround: update iOS to 15 version, if possible.
+
+I am planning to fix issue, when I get crash logs. Currently, they are not available.
+
 ## Roadmap
 
 Here you can find features which we want to add to app in the (near) future:
