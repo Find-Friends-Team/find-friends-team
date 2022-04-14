@@ -1,0 +1,372 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+    <!-- Custom styles for this template -->
+    <style>
+		.b-example-divider {
+			height: 3rem;
+			background-color: rgba(0, 0, 0, .1);
+			border: solid rgba(0, 0, 0, .15);
+			border-width: 1px 0;
+			box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+		}
+
+		.bi {
+			vertical-align: -.125em;
+			fill: currentColor;
+		}
+
+		.feature-icon {
+			display: inline-flex;
+			align-items: center;
+			justify-content: center;
+			width: 4rem;
+			height: 4rem;
+			margin-bottom: 1rem;
+			font-size: 2rem;
+			color: #fff;
+			border-radius: .75rem;
+		}
+
+		.icon-link {
+			display: inline-flex;
+			align-items: center;
+		}
+
+		.icon-link>.bi {
+			margin-top: .125rem;
+			margin-left: .125rem;
+			transition: transform .25s ease-in-out;
+			fill: currentColor;
+		}
+
+		.icon-link:hover>.bi {
+			transform: translate(.25rem);
+		}
+
+		.icon-square {
+			display: inline-flex;
+			align-items: center;
+			justify-content: center;
+			width: 3rem;
+			height: 3rem;
+			font-size: 1.5rem;
+			border-radius: .75rem;
+		}
+
+		.rounded-4 {
+			border-radius: .5rem;
+		}
+
+		.rounded-5 {
+			border-radius: 1rem;
+		}
+
+		.text-shadow-1 {
+			text-shadow: 0 .125rem .25rem rgba(0, 0, 0, .25);
+		}
+
+		.text-shadow-2 {
+			text-shadow: 0 .25rem .5rem rgba(0, 0, 0, .25);
+		}
+
+		.text-shadow-3 {
+			text-shadow: 0 .5rem 1.5rem rgba(0, 0, 0, .25);
+		}
+
+		.card-cover {
+			background-repeat: no-repeat;
+			background-position: center center;
+			background-size: cover;
+		}
+
+
+
+
+    </style>
+    <title>Сервис создания инфографики</title>
+</head>
+
+<body>
+
+
+<div class="container">
+    <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
+        <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
+            <!-- <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg> -->
+            <i class="bi-palette-fill" style="font-size: 1em; color: cornflowerblue;">&nbsp;</i>
+            <span class="fs-4">Сервис создания инфографики</span>
+        </a>
+
+        <ul class="nav nav-pills">
+            <li class="nav-item"><a href="#about" class="nav-link" aria-current="page">О сервисе</a></li>
+            <li class="nav-item"><a href="#howto" class="nav-link">Как это работает</a></li>
+            <li class="nav-item"><a href="#prices" class="nav-link">Тарифы</a></li>
+            <li class="nav-item"><a href="#contacts" class="nav-link">Контакты</a></li>
+        </ul>
+    </header>
+</div>
+
+<div class="px-4 py-5 my-5 text-center">
+    <i class="bi-palette" style="font-size: 4rem; color: cornflowerblue;">&nbsp;</i>
+    <h1 class="display-5 fw-bold">От идеи до иллюстрации — за одну минуту</h1>
+    <div class="col-lg-6 mx-auto">
+        <p class="lead mb-4">Умный сервис для создания инфографики онлайн.</p>
+        <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+            <a href="#contacts">
+                <button type="button" class="btn btn-primary btn-lg px-4 gap-3">Хочу попробовать</button>
+            </a>
+        </div>
+    </div>
+</div>
+
+<a name="about" style="font-size:0;"></a>
+<div class="bg-dark text-secondary px-4 py-5 text-center">
+    <div class="py-5">
+        <h2 class="display-5 fw-bold text-white">О сервисе</h2>
+        <div class="col-lg-6 mx-auto">
+            <p class="fs-5 mb-4">Вместо выбора из тысяч шаблонов и сотен шрифтов добавьте текст и посмотрите, что сервис
+                создал для вас. Нравится — забирайте, не нравится — жмите «Ещё!».</p>
+            <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
+                <div class="col d-flex align-items-start">
+                    <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+                        <i class="bi-toggles"></i>
+                    </div>
+                    <div>
+                        <h3>Устали от тысячи вариантов?</h3>
+                        <p>В других сервисах предлагают огромное количество шаблонов и элементов.</p>
+                    </div>
+                </div>
+                <div class="col d-flex align-items-start">
+                    <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+                        <i class="bi-files"></i>
+                    </div>
+                    <div>
+                        <h3>Тяжело работать с «белого листа»?</h3>
+                        <p>Сложно создать уникальную инфографику с нуля, когда открываешь редактор и думаешь, с чего же
+                            начать.</p>
+                    </div>
+                </div>
+                <div class="col d-flex align-items-start">
+                    <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+                        <i class="bi-currency-exchange"></i>
+                    </div>
+                    <div>
+                        <h3>Грустите от недоступных премиум-блоков?</h3>
+                        <p>У нас всё включено :).</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<a name="howto" style="font-size:0;"></a>
+
+<div class="px-4 pt-5 my-5 text-center border-bottom">
+    <h2 class="display-5 fw-bold">Как это работает</h2>
+    <div class="overflow-hidden" style="max-height: 300vh;">
+        <div class="container px-5">
+            <img src="../images/infographic-screenshot-1.png"
+                 class="img-fluid border rounded-3 shadow-lg mb-4" alt="Скриншот"
+                 width="1214" height="791" loading="lazy">
+        </div>
+    </div>
+    <div class="col-lg-6 mx-auto">
+        <p class="lead mb-4">Мы анализируем текст, подбираем иллюстрации, размещаем заголовок и пункты. Выбираем шрифт,
+            цвет текста и фона, нумерацию и много других важных мелочей.</p>
+        <p class="lead mb-4">На каждом этапе добавляем машинное обучение и щепотку случайности — создаём уникальную
+            инфографику. Даже две. Или четыре…</p>
+        <p class="lead mb-4">Ну, вы поняли: если не нравятся варианты, жмите «Создать ещё».</p>
+    </div>
+</div>
+
+<div class="bg-dark pt-5 my-5 text-secondary" id="hanging-icons">
+    <div class="container">
+        <h2 class="display-5 fw-bold text-white text-center">Пример инфографики</h2>
+        <div class="container px-5">
+            <img src="../images/coffee-1-2-big.jpg"
+                 class="img-fluid border rounded-3 shadow-lg mb-4" alt="Пример инфографики"
+                 width="1280" height="853" loading="lazy">
+        </div>
+    </div>
+</div>
+
+<a name="prices" style="font-size:0;"></a>
+<div class="container">
+    <h2 class="display-5 fw-bold text-center">Тарифы</h2>
+    <div class="lead mb-4 text-center">Ознакомьтесь с тарифами</div>
+    <div class="row row-cols-1 row-cols-md-4 mb-4 pt-4 text-center">
+        <div class="col">
+            <div class="card mb-4 rounded-3 shadow-sm">
+                <div class="card-header py-3">
+                    <h4 class="my-0 fw-normal">Бесплатный</h4>
+                </div>
+                <div class="card-body" style="min-height: 34vh;">
+                    <h1 class="card-title pricing-card-title">0 ₽</h1>
+                    <ul class="list-unstyled mt-3 mb-4">
+                        <li>Две инфографики после регистрации</li>
+                        <li>Две инфографики в месяц<br/><small class="text-muted fw-light">(если использовали
+                            предыдущие)</small></li>
+                        <li>Ссылка внизу картинки</li>
+                    </ul>
+                    <a href="#contacts">
+                        <button type="button" class="w-100 btn btn-lg btn-outline-primary">Хочу попробовать</button>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card mb-4 rounded-3 shadow-sm">
+                <div class="card-header py-3">
+                    <h4 class="my-0 fw-normal">Одна инфографика</h4>
+                </div>
+                <div class="card-body" style="min-height: 34vh;">
+                    <h1 class="card-title pricing-card-title">500 ₽</h1>
+                    <ul class="list-unstyled mt-3 mb-4">
+                        <li></li>
+                        <li>Без ссылки на сайт сервиса</li>
+                        <li></li>
+                    </ul>
+                    <a href="#contacts">
+                        <button type="button" class="w-100 btn btn-lg btn-outline-primary">Выбрать</button>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card mb-4 rounded-3 shadow-sm border-primary">
+                <div class="card-header py-3 bg-primary border-primary">
+                    <h4 class="my-0 fw-normal">Пакет 10 штук</h4>
+                </div>
+                <div class="card-body" style="min-height: 34vh;">
+                    <h1 class="card-title pricing-card-title">4 000 ₽</h1>
+                    <ul class="list-unstyled mt-3 mb-4">
+                        <li>Экономия — 25%</li>
+                        <li>Без ссылки на сайт сервиса</li>
+                    </ul>
+                    <a href="#contacts">
+                        <button type="button" class="w-100 btn btn-lg btn-outline-primary">Выбрать</button>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card mb-4 rounded-3 shadow-sm">
+                <div class="card-header py-3">
+                    <h4 class="my-0 fw-normal">Пакет 100 штук</h4>
+                </div>
+                <div class="card-body" style="min-height: 34vh;">
+                    <h1 class="card-title pricing-card-title">30 000 ₽</h1>
+                    <ul class="list-unstyled mt-3 mb-4">
+                        <li>Экономия — 40%</li>
+                        <li>Без ссылки на сайт сервиса</li>
+                    </ul>
+                    <a href="#contacts">
+                        <button type="button" class="w-100 btn btn-lg btn-outline-primary">Выбрать</button>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="b-example-divider"></div>
+
+
+<div class="px-4 py-5">
+    <div class="py-5">
+        <h2 class="display-5 fw-bold text-center">Как мы работаем</h2>
+        <div class="list-group col-lg-6 mx-auto">
+            <a class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+                <div class="icon-square">
+                    <i class="bi-command"></i>
+                </div>
+                <div class="d-flex gap-2 w-100 justify-content-between">
+                    <div>
+                        <h6 class="mb-0"> Отладка</h6>
+                        <p class="mb-0 opacity-75">Сейчас мы занимаемся отладкой сервиса и делаем иллюстрации для своих
+                            сайтов</p>
+                    </div>
+                </div>
+            </a>
+            <a class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+                <div class="icon-square">
+                    <i class="bi-envelope-paper"></i>
+                </div>
+                <div class="d-flex gap-2 w-100 justify-content-between">
+                    <div>
+                        <h6 class="mb-0">Сбор заявок</h6>
+                        <p class="mb-0 opacity-75">Если вам интересен наш сервис, оставьте, пожалуйста, заявку.</p>
+                    </div>
+                </div>
+            </a>
+            <a class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+                <div class="icon-square">
+                    <i class="bi-share"></i>
+                </div>
+                <div class="d-flex gap-2 w-100 justify-content-between">
+                    <div>
+                        <h6 class="mb-0">Открытый бета-тест</h6>
+                        <p class="mb-0 opacity-75">После стабилизации сервиса мы откроем доступ к нему для тех, кто
+                            оставил заявку.</p>
+                        <p class="mb-0 opacity-75">Начислим повышенный бонус, чтобы вы смогли бесплатно сделать
+                            несколько иллюстраций.</p>
+                    </div>
+                </div>
+            </a>
+            <a class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+                <div class="icon-square">
+                    <i class="bi-palette"></i>
+                </div>
+                <div class="d-flex gap-2 w-100 justify-content-between">
+                    <div>
+                        <h6 class="mb-0">Публичный запуск</h6>
+                        <p class="mb-0 opacity-75">Открытая регистрация и тарифы, указанные на этой странице.</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+
+
+<a name="contacts" style="font-size:0;"></a>
+
+
+<div class="px-4 py-5">
+    <div class="py-5">
+        <h2 class="display-5 fw-bold text-center">Заявка</h2>
+        <div class="list-group col-lg-6 mx-auto">
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScL176i4HLVI9ZX25hGY0WAfi08CUJ5yzVpOeUZ074kGT-GlA/viewform?embedded=true"
+                    width="640" height="1003" frameborder="0" marginheight="0" marginwidth="0">Loading…
+            </iframe>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+        <div class="col-md-6 d-flex align-items-center">
+            <div class="text-muted">© 2022 find-friends-team.ru, <a href="mailto:info@find-friends-team.ru">info@find-friends-team.ru</a></div>
+        </div>
+    </footer>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+        crossorigin="anonymous"></script>
+
+</body>
+
+</html>
