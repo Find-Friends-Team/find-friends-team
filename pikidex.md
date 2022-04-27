@@ -40,7 +40,6 @@ I am planning to fix issue, when I get crash logs. Currently, they are not avail
 Here you can find features which we want to add to app in the (near) future:
 - the number of pikmin with each color and/or decor,
 - new icons,
-- track alphabet letters,
 - ultra-compact mode, when completed categories are collapsed to an icon and joined together.
 
 ## Contact
