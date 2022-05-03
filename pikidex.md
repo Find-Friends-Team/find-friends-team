@@ -40,7 +40,7 @@ I am planning to fix issue, when I get crash logs. Currently, they are not avail
 Here you can find features which we want to add to app in the (near) future:
 - the number of pikmin with each color and/or decor,
 - new icons,
-- ultra-compact mode, when completed categories are collapsed to an icon and joined together.
+- translations.
 
 ## Contact
 If you find an inaccuracy, or you have any suggestions, kindly feel free to [send us a word](mailto:pikidex@find-friends-team.ru).

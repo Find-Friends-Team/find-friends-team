@@ -1038,5 +1038,25 @@
         }
       ]
     }
+  ],
+  "shinyCollection": [
+    {
+      "icon": "restaurant",
+      "name": "Restaurant — Shiny chef hat",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        }
+      ]
+    }
   ]
 }
