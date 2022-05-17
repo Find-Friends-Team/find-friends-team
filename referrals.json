@@ -1,0 +1,38 @@
+{
+  "referrals": [
+    {
+      "id": "1",
+      "name": "Сбер",
+      "iconUrl": "",
+      "description": "Онлайн-экосистема, основанная на финансовых и лайфстайл-услугах",
+      "products" : [
+        {
+          "id": "1",
+          "name": "Кредитная карта Mastercard",
+          "description": "1500 рублей на счёт мобильного приглашающему и приглашённому",
+          "termsUrl": "https://www.sberbank.ru/promo/mkc5/images/rules.pdf",
+          "isDisabled": true
+        },
+        {
+          "id": "53",
+          "name": "Брокерский счёт",
+          "description": "Вы получаете 1000 рублей на свой брокерский счет, другу — 30 дней бесплатных инвестиций",
+          "termsUrl": "https://www.sberbank.ru/promo/pdbp/"
+        },
+        {
+          "id": "54",
+          "name": "МегаМаркет",
+          "description": "Промокод на 500 рублей для новых клиентов",
+          "termsUrl": "https://sbermegamarket.ru/promo/pravila-akcii-promokod-dlya-novyh-klientov-na-pervyy-zakaz-sbol/?utm_medium=cpa&utm_source=masspers&utm_campaign=push_3011_catalog",
+          "default": "SBCOP1SQNUZBG"
+        },
+        {
+          "id": "92",
+          "name": "Маркет",
+          "description": "Промокод на 300 рублей для новых клиентов",
+          "termsUrl": "https://cms-res.online.sberbank.ru/catalog/docs/pravila_sm300ot1500.pdf"
+        }
+      ]
+    }
+  ]
+}
