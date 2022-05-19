@@ -3,7 +3,6 @@
     {
       "id": "1",
       "name": "Сбер",
-      "iconUrl": "",
       "description": "Онлайн-экосистема, основанная на финансовых и лайфстайл-услугах",
       "products" : [
         {
@@ -16,7 +15,7 @@
         {
           "id": "53",
           "name": "Брокерский счёт",
-          "description": "Вы получаете 1000 рублей на свой брокерский счет, другу — 30 дней бесплатных инвестиций",
+          "description": "Приглашающему — 1000 рублей на брокерский счет, приглашённому — 30 дней бесплатных инвестиций",
           "termsUrl": "https://www.sberbank.ru/promo/pdbp/"
         },
         {
@@ -31,6 +30,243 @@
           "name": "Маркет",
           "description": "Промокод на 300 рублей для новых клиентов",
           "termsUrl": "https://cms-res.online.sberbank.ru/catalog/docs/pravila_sm300ot1500.pdf"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Тинькофф",
+      "description": "Онлайн-экосистема, основанная на финансовых и лайфстайл-услугах",
+      "products" : [
+        {
+          "id": "2",
+          "name": "Дебетовая карта Tinkoff Black",
+          "description": "Приглашающему — 1000 ₽, приглашённому — бесплатное обслуживание навсегда",
+          "termsUrl": "https://acdn.tinkoff.ru/static/documents/promo-baf-common.pdf",
+          "default": "https://tinkoff.ru/sl/4f0dAO5Qm3p"
+        },
+        {
+          "id": "3",
+          "companyId":"2",
+          "name": "Кредитная карта Tinkoff Platinum",
+          "description": "Приглашающему — 750 ₽, приглашённому — бесплатное обслуживание навсегда",
+          "termsUrl": "https://acdn.tinkoff.ru/static/documents/promo-baf-common.pdf",
+          "default": "https://tinkoff.ru/sl/9XqynS5xVSI"
+        },
+        {
+          "id": "4",
+          "name": "Брокерский счёт",
+          "description": "Приглашающему — бонус: акция до 20 000 рублей, приглашённому — месяц торговли без комиссий",
+          "termsUrl": "https://acdn.tinkoff.ru/static/documents/promo-baf-common.pdf",
+          "default": "https://tinkoff.ru/sl/5ZjlogqtkS5"
+        },
+        {
+          "id": "6",
+          "name": "Кредитная карта All airlines",
+          "description": "Приглашающему — 750 рублей или миль, приглашённому — 750 миль",
+          "termsUrl": "https://acdn.tinkoff.ru/static/documents/promo-baf-common.pdf",
+          "default": "https://tinkoff.ru/sl/JlxQkMiK7U"
+        },
+        {
+          "id": "7",
+          "name": "Дебетовая карта All airlines",
+          "description": "Приглашающему — 1000 ₽, приглашённому — 500 миль",
+          "termsUrl": "https://acdn.tinkoff.ru/static/documents/promo-baf-common.pdf",
+          "default": "https://tinkoff.ru/sl/AJcuZpbMbGQ"
+        },
+        {
+          "id": "8",
+          "name": "Тинькофф Мобайл",
+          "description": "Приглашающему — 500 ₽, приглашённому — 500 бонусов и сервисы бесплатно навсегда",
+          "termsUrl": "https://acdn.tinkoff.ru/static/documents/promo-baf-common.pdf",
+          "default": "https://tinkoff.ru/sl/2o1NdOwY2MH"
+        },
+        {
+          "id": "21",
+          "name": "Вклад от 6 месяцев",
+          "description": "Приглашающему — 1000 ₽, приглашённому — 0.5% от вклада единоразово",
+          "termsUrl": "https://acdn.tinkoff.ru/static/documents/promo-baf-common.pdf",
+          "default": "https://tinkoff.ru/sl/7Cybw6x73A"
+        },
+        {
+          "id": "22",
+          "name": "Кредит наличными",
+          "description": "Приглашающему — 1000 ₽, приглашённому — повышенный кредитный лимит",
+          "termsUrl": "https://acdn.tinkoff.ru/static/documents/promo-baf-common.pdf",
+          "default": "https://tinkoff.ru/sl/4ZRTlKJNqnU"
+        },
+        {
+          "id": "42",
+          "name": " Любой продукт",
+          "description": "До 5000 рублей за каждого приглашённого",
+          "termsUrl": "https://acdn.tinkoff.ru/static/documents/promo-baf-common.pdf",
+          "default": "https://tinkoff.ru/sl/2nlb7nMWWbb"
+        },
+        {
+          "id": "43",
+          "name": "Счет для бизнеса",
+          "description": "Приглашающему — 1000 ₽, приглашённому — 3 месяца обслуживания бесплатно",
+          "termsUrl": "https://acdn.tinkoff.ru/static/documents/promo-baf-common.pdf",
+          "default": "https://tinkoff.ru/sl/7Vr9zb9fCLY"
+        },
+        {
+          "id": "44",
+          "name": "ИИС",
+          "description": "Бонус для обоих: акция до 20 000 рублей",
+          "termsUrl": "https://acdn.tinkoff.ru/static/documents/promo-baf-common.pdf",
+          "default": "https://tinkoff.ru/sl/4fEbNGAV3Xt"
+        },
+        {
+          "id": "45",
+          "name": "КАСКО",
+          "description": "Приглашающему — 5 000 ₽, приглашённому — скидка 10%",
+          "termsUrl": "https://acdn.tinkoff.ru/static/documents/promo-baf-common.pdf",
+          "default": "https://tinkoff.ru/sl/4LgYTxk0mDI"
+        },
+        {
+          "id": "46",
+          "name": "Подписка на КАСКО",
+          "description": "Приглашающему — 2 000 ₽, приглашённому — 50% кэшбэк от стоимости полиса за первый месяц",
+          "termsUrl": "https://acdn.tinkoff.ru/static/documents/promo-baf-common.pdf",
+          "default": "https://tinkoff.ru/sl/OdhQg96rcx"
+        },
+        {
+          "id": "47",
+          "name": "Автокредит",
+          "description": "Приглашающему — 5 000 ₽, приглашённому — повышенный кредитный лимит",
+          "termsUrl": "https://acdn.tinkoff.ru/static/documents/promo-baf-common.pdf",
+          "default": "https://tinkoff.ru/sl/FqxxA3wZqg"
+        },
+        {
+          "id": "48",
+          "name": "Бронирование отелей",
+          "description": "Приглашающему — 500 ₽, приглашённому — кэшбэк до 10% от суммы бронирования",
+          "termsUrl": "https://acdn.tinkoff.ru/static/documents/promo-baf-common.pdf",
+          "default": "https://tinkoff.ru/sl/59svKmAaNPl"
+        },
+        {
+          "id": "49",
+          "name": "Подписка Тинькофф Pro",
+          "description": "Приглашающему — 1 месяц Тинькофф Pro, приглашённому — 2 месяца Тинькофф Pro",
+          "termsUrl": "https://acdn.tinkoff.ru/static/documents/promo-baf-common.pdf",
+          "default": "https://tinkoff.ru/sl/1M0y5Iq7PNU"
+        },
+        {
+          "id": "50",
+          "name": "Кредитование покупателей",
+          "description": "Приглашающему — до 2 500 ₽, приглашённому — повышенное вознаграждение или бесплатная интеграция",
+          "termsUrl": "https://acdn.tinkoff.ru/static/documents/promo-baf-common.pdf",
+          "default": "https://tinkoff.ru/sl/fgTqp0LWM1"
+        },
+        {
+          "id": "51",
+          "name": "Работа в Тинькофф",
+          "description": "Приглашающему — до 5 000 ₽ в зависимости от вакансии",
+          "termsUrl": "https://acdn.tinkoff.ru/static/documents/promo-baf-common.pdf",
+          "default": "https://tinkoff.ru/sl/5b6ZYgAHyJK"
+        },
+        {
+          "id": "86",
+          "name": "Дебетовая карта Tinkoff Junior",
+          "description": "300 рублей приглашающему, 200 баллов — детям приглашённых",
+          "termsUrl": "https://acdn.tinkoff.ru/static/documents/promo-baf-common.pdf",
+          "default": "https://tinkoff.ru/sl/A46ZGuyPFLI"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Ozon",
+      "description": "Ведущая площадка электронной торговли в России",
+      "products": [
+        {
+          "id": "5",
+          "companyId":"3",
+          "name": "Реферальная программа",
+          "description": "500 баллов за каждого нового клиента, до 6% от заказов текущих клиентов",
+          "termsUrl": "https://www.ozon.ru/manager/",
+          "isDisabled": true
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Открытие",
+      "description": "Российская частная финансовая группа",
+      "products": [
+        {
+          "id": "9",
+          "name": "Дебетовая карта Банка Открытие",
+          "description": "Приглашающему — 1000 ₽, приглашённому — 500 бонусных рублей",
+          "termsUrl": "https://mgm.open.ru"
+        },
+        {
+          "id": "10",
+          "name": "Кредитная карта Банка Открытие",
+          "description": "Приглашающему — 3000 ₽, приглашённому — 3000 бонусных рублей",
+          "termsUrl": "https://mgm.open.ru"
+        },
+        {
+          "id": "61",
+          "name": "Кредит наличными или рефинансирование",
+          "description": "10 000 ₽ — приглашающему, 5 000 бонусных рублей — приглашённому",
+          "termsUrl": "https://mgm.open.ru"
+        },
+        {
+          "id": "62",
+          "name": "Вклад",
+          "description": "До 2 000 ₽ — приглашающему, до 1 000 бонусных рублей — приглашённому",
+          "termsUrl": "https://mgm.open.ru"
+        },
+        {
+          "id": "63",
+          "name": "Счёт для бизнеса",
+          "description": "3000 ₽ — приглашающему, 3 месяца бесплатного обслуживания — приглашённому",
+          "termsUrl": "https://mgm.open.ru"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "МКБ",
+      "description": "Московский кредитный Банк",
+      "products": [
+        {
+          "id": "11",
+          "name": "Москарта",
+          "description": "Приглашающему — 1000 ₽, приглашённому — 500 баллов",
+          "termsUrl": "https://mkb.ru/about/promos/friendcard"
+        },
+        {
+          "id": "12",
+          "name": "Москарта Black",
+          "description": "Приглашающему — 1000 ₽, приглашённому — 1000 баллов",
+          "termsUrl": "https://mkb.ru/about/promos/friendcard"
+        },
+        {
+          "id": "13",
+          "name": "Кредитная карта «Можно больше»",
+          "description": "Приглашающему — 1000 ₽, приглашённому — 1000 баллов",
+          "termsUrl": "https://mkb.ru/about/promos/friendcard"
+        },
+        {
+          "id": "14",
+          "name": "Кредит наличными",
+          "description": "Приглашающему — 1000 ₽, приглашённому — 1000 баллов",
+          "termsUrl": "https://mkb.ru/about/promos/friendcard"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Уральский Банк Реконструкции и Развития",
+      "description": "Российский банк из Свердловской области",
+      "products": [
+        {
+          "id": "15",
+          "name": "Вклад/счет/карта/кредит",
+          "description": "Приглашающему — 500 ₽, приглашённому — 500 ₽",
+          "termsUrl": "https://www.ubrr.ru/chastnym-klientam/akcii/privedi-druga"
         }
       ]
     }
