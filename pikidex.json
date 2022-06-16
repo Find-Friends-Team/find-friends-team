@@ -964,6 +964,24 @@
           "color": "blue"
         }
       ]
+    },
+    {
+      "icon": "partly_cloudy_day",
+      "name": "Leaf Hat",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "blue"
+        },
+        {
+          "id": 2,
+          "color": "blue"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        }
+      ]
     }
   ],
   "advancedCollection": [
