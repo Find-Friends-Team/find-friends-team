@@ -965,6 +965,24 @@
         }
       ]
     },
+{
+      "icon": "mountain",
+      "name": "Mountain — Pin Badge",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        }
+      ]
+    },
     {
       "icon": "partly_cloudy_day",
       "name": "Weather — Leaf Hat",
