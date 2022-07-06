@@ -821,6 +821,7 @@
     {
       "icon": "chair_outlined",
       "name": "Park — Four-Leaf Clover",
+      "color": "green",
       "pikmins": [
         {
           "id": 1,
@@ -966,7 +967,7 @@
         }
       ]
     },
-{
+    {
       "icon": "landscape",
       "name": "Mountain — Pin Badge",
       "pikmins": [
