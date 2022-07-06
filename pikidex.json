@@ -900,6 +900,7 @@
     {
       "icon": "question_mark_outlined",
       "name": "Special — Lunar New Year",
+      "color": "red",
       "pikmins": [
         {
           "id": 1,
