@@ -547,6 +547,7 @@
     {
       "icon": "store_outlined",
       "name": "Mini-mart",
+      "color": "blue",
       "pikmins": [
         {
           "id": 1,
