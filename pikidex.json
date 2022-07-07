@@ -207,6 +207,7 @@
     {
       "icon": "forest_outlined",
       "name": "Forest — Stag beetle",
+      "color": "grey",
       "pikmins": [
         {
           "id": 1,
@@ -445,6 +446,7 @@
     {
       "icon": "directions_transit",
       "name": "Station — Ticket",
+      "color": "white",
       "pikmins": [
         {
           "id": 1,
