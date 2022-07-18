@@ -919,6 +919,29 @@
       ]
     },
     {
+      "icon": "question_mark_outlined",
+      "name": "Special — Chess Piece",
+      "color": "white",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "yellow"
+        },
+        {
+          "id": 2,
+          "color": "blue"
+        },
+        {
+          "id": 3,
+          "color": "white"
+        },
+        {
+          "id": 4,
+          "color": "purple"
+        }
+      ]
+    },
+    {
       "icon": "edit_road_outlined",
       "name": "Roadside",
       "pikmins": [
