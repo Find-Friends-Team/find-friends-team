@@ -1028,6 +1028,24 @@
           "color": "blue"
         }
       ]
+    },
+    {
+      "icon": "attractions",
+      "name": "Theme Park — Ticket",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        }
+      ]
     }
   ],
   "advancedCollection": [
