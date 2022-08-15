@@ -942,6 +942,29 @@
       ]
     },
     {
+      "icon": "question_mark_outlined",
+      "name": "Special — Fingerboard",
+      "color": "purple",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "purple"
+        },
+        {
+          "id": 4,
+          "color": "pink"
+        }
+      ]
+    },
+    {
       "icon": "edit_road_outlined",
       "name": "Roadside",
       "pikmins": [
