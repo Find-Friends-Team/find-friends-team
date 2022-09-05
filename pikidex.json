@@ -965,6 +965,29 @@
       ]
     },
     {
+      "icon": "question_mark_outlined",
+      "name": "Special — Flower Card",
+      "color": "grey",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "purple"
+        }
+      ]
+    },
+    {
       "icon": "edit_road_outlined",
       "name": "Roadside",
       "pikmins": [
