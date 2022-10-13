@@ -988,6 +988,29 @@
       ]
     },
     {
+      "icon": "sentiment_very_dissatisfied",
+      "name": "Special — Jack-O'Lantern",
+      "color": "grey",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "white"
+        },
+        {
+          "id": 2,
+          "color": "purple"
+        },
+        {
+          "id": 3,
+          "color": "grey"
+        },
+        {
+          "id": 4,
+          "color": "pink"
+        }
+      ]
+    },
+    {
       "icon": "edit_road_outlined",
       "name": "Roadside",
       "pikmins": [
