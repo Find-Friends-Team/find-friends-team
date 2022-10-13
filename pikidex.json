@@ -994,18 +994,30 @@
       "pikmins": [
         {
           "id": 1,
-          "color": "white"
+          "color": "red"
         },
         {
           "id": 2,
-          "color": "purple"
+          "color": "yellow"
         },
         {
           "id": 3,
-          "color": "grey"
+          "color": "blue"
         },
         {
           "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
           "color": "pink"
         }
       ]
