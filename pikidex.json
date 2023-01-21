@@ -915,6 +915,18 @@
         {
           "id": 3,
           "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "red"
+        },
+        {
+          "id": 5,
+          "color": "yellow"
+        },
+        {
+          "id": 6,
+          "color": "blue"
         }
       ]
     },
