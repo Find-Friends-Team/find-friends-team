@@ -1451,6 +1451,24 @@
           "color": "pink"
         }
       ]
+    },
+    {
+      "icon": "ramen_dining",
+      "name": "Ramen Restaurant — Ramen Keychain",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        }
+      ]
     }
   ],
   "advancedCollection": [
