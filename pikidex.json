@@ -1209,7 +1209,7 @@
         }
       ]
     },
-     {
+    {
       "icon": "walk",
       "name": "Special — Sneaker Keychain",
       "pikmins": [
@@ -1489,6 +1489,24 @@
     {
       "icon": "ramen_dining",
       "name": "Ramen Restaurant — Ramen Keychain",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "icon": "badge",
+      "name": "Bridge — Bridge Badge",
       "pikmins": [
         {
           "id": 1,
