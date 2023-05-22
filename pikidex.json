@@ -1295,6 +1295,21 @@
         }
       ]
     },
+        {
+      "icon": "question_mark_outlined",
+      "name": "Special — Present Sticker (Gold)",
+      "color": "yellow",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        }
+      ]
+    },
     {
       "icon": "egg",
       "name": "Special — Easter Egg",
