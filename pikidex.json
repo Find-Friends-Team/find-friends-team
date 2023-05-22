@@ -35,6 +35,25 @@
       ]
     },
     {
+      "icon": "restaurant",
+      "name": "Restaurant — Chef Hat Rare",
+      "color": "yellow",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        }
+      ]
+    },
+    {
       "icon": "local_cafe_outlined",
       "name": "Cafe",
       "pikmins": [
@@ -977,9 +996,9 @@
       ]
     },
     {
-      "icon": "question_mark_outlined",
-      "name": "Special — Flower Card",
-      "color": "grey",
+      "icon": "local_florist",
+      "name": "Special — Red Flower Card",
+      "color": "red",
       "pikmins": [
         {
           "id": 1,
@@ -987,7 +1006,69 @@
         },
         {
           "id": 2,
+          "color": "red"
+        },
+        {
+          "id": 3,
+          "color": "red"
+        },
+        {
+          "id": 4,
+          "color": "red"
+        },
+        {
+          "id": 5,
+          "color": "red"
+        },
+        {
+          "id": 6,
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "icon": "local_florist",
+      "name": "Special — Yellow Flower Card",
+      "color": "yellow",
+      "pikmins": [
+        {
+          "id": 1,
           "color": "yellow"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "yellow"
+        },
+        {
+          "id": 4,
+          "color": "yellow"
+        },
+        {
+          "id": 5,
+          "color": "yellow"
+        },
+        {
+          "id": 6,
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "icon": "local_florist",
+      "name": "Special — Blue Flower Card",
+      "color": "blue",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "blue"
+        },
+        {
+          "id": 2,
+          "color": "blue"
         },
         {
           "id": 3,
@@ -995,6 +1076,45 @@
         },
         {
           "id": 4,
+          "color": "blue"
+        },
+        {
+          "id": 5,
+          "color": "blue"
+        },
+        {
+          "id": 6,
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "icon": "local_florist",
+      "name": "Special — Purple Flower Card",
+      "color": "purple",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "purple"
+        },
+        {
+          "id": 2,
+          "color": "purple"
+        },
+        {
+          "id": 3,
+          "color": "purple"
+        },
+        {
+          "id": 4,
+          "color": "purple"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
           "color": "purple"
         }
       ]
@@ -1245,7 +1365,113 @@
     },
     {
       "icon": "edit_road_outlined",
-      "name": "Roadside",
+      "name": "Roadside — Green Sticker",
+      "color": "green",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "edit_road_outlined",
+      "name": "Roadside — Blue Sticker",
+      "color": "blue",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "edit_road_outlined",
+      "name": "Roadside — Yellow Sticker",
+      "color": "yellow",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "edit_road_outlined",
+      "name": "Roadside — Winter Sticker",
+      "color": "white",
       "pikmins": [
         {
           "id": 1,
@@ -1402,7 +1628,26 @@
     },
     {
       "icon": "attractions",
-      "name": "Theme Park — Ticket",
+      "name": "Theme Park — Ferris Wheel",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "icon": "attractions",
+      "name": "Theme Park — Pirate Ship",
+      "color": "blue",
       "pikmins": [
         {
           "id": 1,
