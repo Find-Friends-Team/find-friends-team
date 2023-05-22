@@ -1645,9 +1645,8 @@
       ]
     },
     {
-      "icon": "attractions",
+      "icon": "sailing",
       "name": "Theme Park — Pirate Ship",
-      "color": "blue",
       "pikmins": [
         {
           "id": 1,
