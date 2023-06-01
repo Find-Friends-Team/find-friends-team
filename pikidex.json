@@ -986,8 +986,20 @@
           "color": "yellow"
         },
         {
+          "id": 5,
+          "color": "blue"
+        },
+        {
+          "id": 6,
+          "color": "white"
+        },
+        {
           "id": 3,
           "color": "purple"
+        },
+        {
+          "id": 7,
+          "color": "grey"
         },
         {
           "id": 4,
