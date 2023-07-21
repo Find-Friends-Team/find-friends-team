@@ -1483,7 +1483,7 @@
     {
       "icon": "question_mark_outlined",
       "name": "Special — Pikmin 4 Spaceship",
-      "color": "blue"
+      "color": "blue",
       "pikmins": [
         {
           "id": 1,
