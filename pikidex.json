@@ -1093,6 +1093,7 @@
       "icon": "local_florist",
       "name": "Special — Red Flower Card",
       "color": "red",
+      "isSeasonal": true,
       "pikmins": [
         {
           "id": 1,
@@ -1216,6 +1217,9 @@
     {
       "icon": "sentiment_very_dissatisfied",
       "name": "Special — Jack-O'Lantern",
+      "isSeasonal": true,
+      "seasonStart": "2022-10-01",
+      "seasonEnd": "2022-10-21",
       "color": "grey",
       "pikmins": [
         {
