@@ -957,6 +957,7 @@
       "icon": "question_mark_outlined",
       "name": "Special — Lunar New Year",
       "color": "red",
+      "isSeasonal": true,
       "pikmins": [
         {
           "id": 1,
@@ -988,6 +989,7 @@
       "icon": "question_mark_outlined",
       "name": "Special — Chess Piece (white)",
       "color": "white",
+      "isSeasonal": true,
       "pikmins": [
         {
           "id": 1,
@@ -1023,6 +1025,7 @@
       "icon": "question_mark_outlined",
       "name": "Special — Chess Piece (black)",
       "color": "grey",
+      "isSeasonal": true,
       "pikmins": [
         {
           "id": 1,
@@ -1058,6 +1061,7 @@
       "icon": "question_mark_outlined",
       "name": "Special — Fingerboard",
       "color": "purple",
+      "isSeasonal": true,
       "pikmins": [
         {
           "id": 1,
@@ -1125,6 +1129,7 @@
       "icon": "local_florist",
       "name": "Special — Yellow Flower Card",
       "color": "yellow",
+      "isSeasonal": true,
       "pikmins": [
         {
           "id": 1,
@@ -1156,6 +1161,7 @@
       "icon": "local_florist",
       "name": "Special — Blue Flower Card",
       "color": "blue",
+      "isSeasonal": true,
       "pikmins": [
         {
           "id": 1,
@@ -1187,6 +1193,7 @@
       "icon": "local_florist",
       "name": "Special — Purple Flower Card",
       "color": "purple",
+      "isSeasonal": true,
       "pikmins": [
         {
           "id": 1,
@@ -1255,6 +1262,7 @@
     {
       "icon": "question_mark_outlined",
       "name": "Special — First Anniversary Snack",
+      "isSeasonal": true,
       "pikmins": [
         {
           "id": 1,
@@ -1290,6 +1298,7 @@
       "icon": "question_mark_outlined",
       "name": "Special — Koppaite Space Suit",
       "color": "blue",
+      "isSeasonal": true,
       "pikmins": [
         {
           "id": 1,
@@ -1308,6 +1317,7 @@
     {
       "icon": "question_mark_outlined",
       "name": "Special — Mitten",
+      "isSeasonal": true,
       "pikmins": [
         {
           "id": 1,
@@ -1327,6 +1337,7 @@
       "icon": "question_mark_outlined",
       "name": "Special — 2023 Glasses",
       "color": "green",
+      "isSeasonal": true,
       "pikmins": [
         {
           "id": 1,
@@ -1362,6 +1373,7 @@
       "icon": "question_mark_outlined",
       "name": "Special — Present Sticker",
       "color": "pink",
+      "isSeasonal": true,
       "pikmins": [
         {
           "id": 1,
@@ -1397,6 +1409,7 @@
       "icon": "question_mark_outlined",
       "name": "Special — Present Sticker (Gold)",
       "color": "yellow",
+      "isSeasonal": true,
       "pikmins": [
         {
           "id": 1,
@@ -1419,6 +1432,7 @@
     {
       "icon": "egg",
       "name": "Special — Easter Egg",
+      "isSeasonal": true,
       "pikmins": [
         {
           "id": 1,
@@ -1453,6 +1467,7 @@
     {
       "icon": "walk",
       "name": "Special — Sneaker Keychain",
+      "isSeasonal": true,
       "pikmins": [
         {
           "id": 1,
@@ -1488,6 +1503,7 @@
       "icon": "question_mark_outlined",
       "name": "Special — Pikmin 4 Spaceship",
       "color": "blue",
+      "isSeasonal": true,
       "pikmins": [
         {
           "id": 1,
@@ -1523,6 +1539,7 @@
       "icon": "question_mark_outlined",
       "name": "Special — Mahjong Tile 1",
       "color": "white",
+      "isSeasonal": true,
       "pikmins": [
         {
           "id": 1,
@@ -1558,6 +1575,7 @@
       "icon": "question_mark_outlined",
       "name": "Special — Mahjong Tile 2",
       "color": "white",
+      "isSeasonal": true,
       "pikmins": [
         {
           "id": 1,
@@ -1698,6 +1716,7 @@
       "icon": "edit_road_outlined",
       "name": "Roadside — Winter Sticker",
       "color": "white",
+      "isSeasonal": true,
       "pikmins": [
         {
           "id": 1,
