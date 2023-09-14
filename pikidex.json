@@ -944,6 +944,478 @@
       ]
     },
     {
+      "icon": "edit_road_outlined",
+      "name": "Roadside — Green Sticker",
+      "color": "green",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "edit_road_outlined",
+      "name": "Roadside — Blue Sticker",
+      "color": "blue",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "edit_road_outlined",
+      "name": "Roadside — Yellow Sticker",
+      "color": "yellow",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "edit_road_outlined",
+      "name": "Roadside — Winter Sticker",
+      "color": "white",
+      "isSeasonal": true,
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "edit_road_outlined",
+      "name": "Roadside — Coin",
+      "color": "grey",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "set_meal_outlined",
+      "name": "Sushi Restaurant",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "landscape",
+      "name": "Mountain — Pin Badge",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "icon": "stadium",
+      "name": "Stadium — Ball Keychain",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "icon": "partly_cloudy_day",
+      "name": "Weather — Leaf Hat",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "blue"
+        },
+        {
+          "id": 2,
+          "color": "blue"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "icon": "attractions",
+      "name": "Theme Park — Ferris Wheel",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "icon": "sailing",
+      "name": "Theme Park — Pirate Ship",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "icon": "airport_shuttle",
+      "name": "Bus Stop — Bus Papercraft",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "local_pizza",
+      "name": "Italian Restaurant — Pizza",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "ramen_dining",
+      "name": "Ramen Restaurant — Ramen Keychain",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "icon": "badge",
+      "name": "Bridge — Bridge Badge",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "icon": "hotel",
+      "name": "Hotel — Hotel Amenities",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "brush",
+      "name": "Makeup Store — Makeup",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
       "icon": "question_mark_outlined",
       "name": "Special",
       "pikmins": [
@@ -1573,44 +2045,6 @@
     },
     {
       "icon": "question_mark_outlined",
-      "name": "Special — Ice Cream",
-      "color": "pink",
-      "isSeasonal": true,
-      "seasonStart": "2023-09-10",
-      "seasonEnd": "2023-10-05",
-      "pikmins": [
-        {
-          "id": 1,
-          "color": "red"
-        },
-        {
-          "id": 2,
-          "color": "yellow"
-        },
-        {
-          "id": 3,
-          "color": "blue"
-        },
-        {
-          "id": 4,
-          "color": "white"
-        },
-        {
-          "id": 5,
-          "color": "purple"
-        },
-        {
-          "id": 6,
-          "color": "grey"
-        },
-        {
-          "id": 7,
-          "color": "pink"
-        }
-      ]
-    },
-    {
-      "icon": "question_mark_outlined",
       "name": "Special — Mahjong Tile 2",
       "color": "white",
       "isSeasonal": true,
@@ -1646,412 +2080,12 @@
       ]
     },
     {
-      "icon": "edit_road_outlined",
-      "name": "Roadside — Green Sticker",
-      "color": "green",
-      "pikmins": [
-        {
-          "id": 1,
-          "color": "red"
-        },
-        {
-          "id": 2,
-          "color": "yellow"
-        },
-        {
-          "id": 3,
-          "color": "blue"
-        },
-        {
-          "id": 4,
-          "color": "white"
-        },
-        {
-          "id": 5,
-          "color": "purple"
-        },
-        {
-          "id": 6,
-          "color": "grey"
-        },
-        {
-          "id": 7,
-          "color": "pink"
-        }
-      ]
-    },
-    {
-      "icon": "edit_road_outlined",
-      "name": "Roadside — Blue Sticker",
-      "color": "blue",
-      "pikmins": [
-        {
-          "id": 1,
-          "color": "red"
-        },
-        {
-          "id": 2,
-          "color": "yellow"
-        },
-        {
-          "id": 3,
-          "color": "blue"
-        },
-        {
-          "id": 4,
-          "color": "white"
-        },
-        {
-          "id": 5,
-          "color": "purple"
-        },
-        {
-          "id": 6,
-          "color": "grey"
-        },
-        {
-          "id": 7,
-          "color": "pink"
-        }
-      ]
-    },
-    {
-      "icon": "edit_road_outlined",
-      "name": "Roadside — Yellow Sticker",
-      "color": "yellow",
-      "pikmins": [
-        {
-          "id": 1,
-          "color": "red"
-        },
-        {
-          "id": 2,
-          "color": "yellow"
-        },
-        {
-          "id": 3,
-          "color": "blue"
-        },
-        {
-          "id": 4,
-          "color": "white"
-        },
-        {
-          "id": 5,
-          "color": "purple"
-        },
-        {
-          "id": 6,
-          "color": "grey"
-        },
-        {
-          "id": 7,
-          "color": "pink"
-        }
-      ]
-    },
-    {
-      "icon": "edit_road_outlined",
-      "name": "Roadside — Winter Sticker",
-      "color": "white",
+      "icon": "question_mark_outlined",
+      "name": "Special — Ice Cream",
+      "color": "pink",
       "isSeasonal": true,
-      "pikmins": [
-        {
-          "id": 1,
-          "color": "red"
-        },
-        {
-          "id": 2,
-          "color": "yellow"
-        },
-        {
-          "id": 3,
-          "color": "blue"
-        },
-        {
-          "id": 4,
-          "color": "white"
-        },
-        {
-          "id": 5,
-          "color": "purple"
-        },
-        {
-          "id": 6,
-          "color": "grey"
-        },
-        {
-          "id": 7,
-          "color": "pink"
-        }
-      ]
-    },
-    {
-      "icon": "edit_road_outlined",
-      "name": "Roadside — Coin",
-      "color": "grey",
-      "pikmins": [
-        {
-          "id": 1,
-          "color": "red"
-        },
-        {
-          "id": 2,
-          "color": "yellow"
-        },
-        {
-          "id": 3,
-          "color": "blue"
-        },
-        {
-          "id": 4,
-          "color": "white"
-        },
-        {
-          "id": 5,
-          "color": "purple"
-        },
-        {
-          "id": 6,
-          "color": "grey"
-        },
-        {
-          "id": 7,
-          "color": "pink"
-        }
-      ]
-    },
-    {
-      "icon": "set_meal_outlined",
-      "name": "Sushi Restaurant",
-      "pikmins": [
-        {
-          "id": 1,
-          "color": "red"
-        },
-        {
-          "id": 2,
-          "color": "yellow"
-        },
-        {
-          "id": 3,
-          "color": "blue"
-        },
-        {
-          "id": 4,
-          "color": "white"
-        },
-        {
-          "id": 5,
-          "color": "purple"
-        },
-        {
-          "id": 6,
-          "color": "grey"
-        },
-        {
-          "id": 7,
-          "color": "pink"
-        }
-      ]
-    },
-    {
-      "icon": "landscape",
-      "name": "Mountain — Pin Badge",
-      "pikmins": [
-        {
-          "id": 1,
-          "color": "red"
-        },
-        {
-          "id": 2,
-          "color": "yellow"
-        },
-        {
-          "id": 3,
-          "color": "blue"
-        }
-      ]
-    },
-    {
-      "icon": "stadium",
-      "name": "Stadium — Ball Keychain",
-      "pikmins": [
-        {
-          "id": 1,
-          "color": "red"
-        },
-        {
-          "id": 2,
-          "color": "yellow"
-        },
-        {
-          "id": 3,
-          "color": "blue"
-        }
-      ]
-    },
-    {
-      "icon": "partly_cloudy_day",
-      "name": "Weather — Leaf Hat",
-      "pikmins": [
-        {
-          "id": 1,
-          "color": "blue"
-        },
-        {
-          "id": 2,
-          "color": "blue"
-        },
-        {
-          "id": 3,
-          "color": "blue"
-        }
-      ]
-    },
-    {
-      "icon": "attractions",
-      "name": "Theme Park — Ferris Wheel",
-      "pikmins": [
-        {
-          "id": 1,
-          "color": "red"
-        },
-        {
-          "id": 2,
-          "color": "yellow"
-        },
-        {
-          "id": 3,
-          "color": "blue"
-        }
-      ]
-    },
-    {
-      "icon": "sailing",
-      "name": "Theme Park — Pirate Ship",
-      "pikmins": [
-        {
-          "id": 1,
-          "color": "red"
-        },
-        {
-          "id": 2,
-          "color": "yellow"
-        },
-        {
-          "id": 3,
-          "color": "blue"
-        }
-      ]
-    },
-    {
-      "icon": "airport_shuttle",
-      "name": "Bus Stop — Bus Papercraft",
-      "pikmins": [
-        {
-          "id": 1,
-          "color": "red"
-        },
-        {
-          "id": 2,
-          "color": "yellow"
-        },
-        {
-          "id": 3,
-          "color": "blue"
-        },
-        {
-          "id": 4,
-          "color": "white"
-        },
-        {
-          "id": 5,
-          "color": "purple"
-        },
-        {
-          "id": 6,
-          "color": "grey"
-        },
-        {
-          "id": 7,
-          "color": "pink"
-        }
-      ]
-    },
-    {
-      "icon": "local_pizza",
-      "name": "Italian Restaurant — Pizza",
-      "pikmins": [
-        {
-          "id": 1,
-          "color": "red"
-        },
-        {
-          "id": 2,
-          "color": "yellow"
-        },
-        {
-          "id": 3,
-          "color": "blue"
-        },
-        {
-          "id": 4,
-          "color": "white"
-        },
-        {
-          "id": 5,
-          "color": "purple"
-        },
-        {
-          "id": 6,
-          "color": "grey"
-        },
-        {
-          "id": 7,
-          "color": "pink"
-        }
-      ]
-    },
-    {
-      "icon": "ramen_dining",
-      "name": "Ramen Restaurant — Ramen Keychain",
-      "pikmins": [
-        {
-          "id": 1,
-          "color": "red"
-        },
-        {
-          "id": 2,
-          "color": "yellow"
-        },
-        {
-          "id": 3,
-          "color": "blue"
-        }
-      ]
-    },
-    {
-      "icon": "badge",
-      "name": "Bridge — Bridge Badge",
-      "pikmins": [
-        {
-          "id": 1,
-          "color": "red"
-        },
-        {
-          "id": 2,
-          "color": "yellow"
-        },
-        {
-          "id": 3,
-          "color": "blue"
-        }
-      ]
-    },
-    {
-      "icon": "hotel",
-      "name": "Hotel — Hotel Amenities",
+      "seasonStart": "2023-09-10",
+      "seasonEnd": "2023-10-05",
       "pikmins": [
         {
           "id": 1,
