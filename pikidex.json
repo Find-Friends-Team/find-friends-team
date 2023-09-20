@@ -1570,6 +1570,8 @@
       "name": "Special — Red Flower Card",
       "color": "red",
       "isSeasonal": true,
+      "seasonStart": "2023-09-22",
+      "seasonEnd": "2023-10-07",
       "pikmins": [
         {
           "id": 1,
@@ -1602,6 +1604,8 @@
       "name": "Special — Yellow Flower Card",
       "color": "yellow",
       "isSeasonal": true,
+      "seasonStart": "2023-09-22",
+      "seasonEnd": "2023-10-07",
       "pikmins": [
         {
           "id": 1,
@@ -1634,6 +1638,8 @@
       "name": "Special — Blue Flower Card",
       "color": "blue",
       "isSeasonal": true,
+      "seasonStart": "2023-09-22",
+      "seasonEnd": "2023-10-07",
       "pikmins": [
         {
           "id": 1,
@@ -1666,6 +1672,8 @@
       "name": "Special — Purple Flower Card",
       "color": "purple",
       "isSeasonal": true,
+      "seasonStart": "2023-09-22",
+      "seasonEnd": "2023-10-07",
       "pikmins": [
         {
           "id": 1,
