@@ -3,7 +3,7 @@
 This is a small, fan-built application.
 It allows you to track and share the progress of pikimin collection in Pikmin Bloom game.
 
-![](images/pikidex-1.2-o.gif)
+![](images/pikidex-2.0-o.gif)
 
 All progress is saved only on your device.
 
@@ -13,7 +13,7 @@ Download:
 
 ## How to use application
 
-Tap on icon, it will change its state:
+Tap on the icon, it will change its state:
 - none,
 - in progress (got pikmin and levelling friendship),
 - done (got four hearts of friendship).
@@ -22,14 +22,14 @@ Tap on icon, it will change its state:
 
 1. Tap on group header (for example, Restaurant) to make it compact. ![](images/pikidex-tap-zone.webp)
 2. Double tap group header to collapse all groups. This will switch all your collection to the compact mode.
-3. In compact mode: tap on icon of the group (first in a row) to expand this group. ![](images/pikidex-compact-tap-zone.webp)
+3. In compact mode: tap on the icon of the group (first in a row) to expand this group. ![](images/pikidex-compact-tap-zone.webp)
 4. Double tap icon of the group to expand all groups. This will switch all your collection to the regular mode.
 
 ## Known issues
 
 ### 2.0.0
 
-When you buy a subscription, hiding currently unavailable decor is not working. Workaround: restart the app.
+When you buy a subscription, sometimes hiding currently unavailable decor is not working. Workaround: restart the app.
 
 ## Roadmap
 
