@@ -1,6 +1,6 @@
 # Pikidex
 
-This is small, fan built, application.
+This is a small, fan-built application.
 It allows you to track and share the progress of pikimin collection in Pikmin Bloom game.
 
 ![](images/pikidex-1.2-o.gif)
@@ -8,7 +8,7 @@ It allows you to track and share the progress of pikimin collection in Pikmin Bl
 All progress is saved only on your device.
 
 Download:
-- [App Store](https://apple.co/3onJKuy),
+- App Store is currently unavailable; we are working together with Apple Support to fix the problem,
 - [Google Play](https://bit.ly/3utNQW4).
 
 ## How to use application
@@ -27,13 +27,9 @@ Tap on icon, it will change its state:
 
 ## Known issues
 
-### App doesn't start on iOS 14.7.1. 
+### 2.0.0
 
-Reproduced on iPhone 8 and 11.
-
-Workaround: update iOS to 15 version, if possible.
-
-I am planning to fix issue, when I get crash logs. Currently, they are not available.
+When you buy a subscription, hiding currently unavailable decor is not working. Workaround: restart the app.
 
 ## Roadmap
 
@@ -58,8 +54,7 @@ to explain our practices regarding the collection and use of information within 
 
 Pikidex does not collect any personally identifiable information.
 
-Pikidex uses third-party service ([Google AdMob](https://policies.google.com/technologies/partner-sites))
-to track app usage data and serve ads. 
+Pikidex uses third-party service Revenuecat to track app usage data. 
 Please review the privacy policy of this third party service for more information
 regarding how they handle personal data.
 
