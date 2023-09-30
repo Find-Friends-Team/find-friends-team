@@ -1705,8 +1705,8 @@
       "icon": "sentiment_very_dissatisfied",
       "name": "Special — Jack-O'Lantern",
       "isSeasonal": true,
-      "seasonStart": "2022-10-01",
-      "seasonEnd": "2022-10-21",
+      "seasonStart": "2023-10-06",
+      "seasonEnd": "2023-11-06",
       "color": "grey",
       "pikmins": [
         {
