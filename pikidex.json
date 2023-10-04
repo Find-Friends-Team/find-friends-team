@@ -1419,6 +1419,7 @@
       "icon": "temple",
       "name": "Shrines and Temples — Fortune",
       "availableFrom": "2023-10-03",
+      "isRegional": true,
       "pikmins": [
         {
           "id": 1,
