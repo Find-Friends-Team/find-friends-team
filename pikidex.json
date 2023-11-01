@@ -1554,6 +1554,8 @@
       "name": "Special — Fingerboard",
       "color": "purple",
       "isSeasonal": true,
+      "seasonStart": "2023-11-21",
+      "seasonEnd": "2023-11-28",
       "pikmins": [
         {
           "id": 1,
@@ -1624,8 +1626,8 @@
       "name": "Special — Yellow Flower Card",
       "color": "yellow",
       "isSeasonal": true,
-      "seasonStart": "2023-09-22",
-      "seasonEnd": "2023-10-07",
+      "seasonStart": "2023-11-13",
+      "seasonEnd": "2023-11-21",
       "pikmins": [
         {
           "id": 1,
@@ -1658,8 +1660,8 @@
       "name": "Special — Blue Flower Card",
       "color": "blue",
       "isSeasonal": true,
-      "seasonStart": "2023-09-22",
-      "seasonEnd": "2023-10-07",
+      "seasonStart": "2023-11-13",
+      "seasonEnd": "2023-11-21",
       "pikmins": [
         {
           "id": 1,
@@ -2007,6 +2009,8 @@
       "icon": "walk",
       "name": "Special — Sneaker Keychain",
       "isSeasonal": true,
+      "seasonStart": "2023-11-06",
+      "seasonEnd": "2023-11-14",
       "pikmins": [
         {
           "id": 1,
