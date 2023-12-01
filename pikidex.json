@@ -1053,6 +1053,8 @@
       "name": "Roadside — Winter Sticker",
       "color": "white",
       "isSeasonal": true,
+      "seasonStart": "2023-12-06",
+      "seasonEnd": "2023-12-31",
       "pikmins": [
         {
           "id": 1,
@@ -1889,6 +1891,8 @@
       "icon": "question_mark_outlined",
       "name": "Special — Mitten",
       "isSeasonal": true,
+      "seasonStart": "2023-12-06",
+      "seasonEnd": "2023-12-31",
       "pikmins": [
         {
           "id": 1,
@@ -1901,6 +1905,22 @@
         {
           "id": 3,
           "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
         }
       ]
     },
