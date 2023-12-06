@@ -480,6 +480,44 @@
         ]
       },
       {
+        "name": "Town",
+        "words": [
+          {"gr": "οι κάτοικοι",
+            "en": "residents"
+          },
+          {"gr": "η εκκλησία",
+            "en": "church"
+          },
+          {"gr": "το νοσοκομείο",
+            "en": "hospital"
+          },
+          {"gr": "το μουσείο",
+            "en": "museum"
+          },
+          {"gr": "το ταχυδρομείο",
+            "en": "post office"
+          },
+          {"gr": "το αεροδρόμιο",
+            "en": "airport"
+          },
+          {"gr": "το λιμάνι",
+            "en": "port"
+          },
+          {"gr": "η στάση",
+            "en": "bus stop"
+          },
+          {"gr": "το σταθμός",
+            "en": "train station"
+          },
+          {"gr": "το μέρος",
+            "en": "place"
+          },
+          {"gr": "η πλατεία",
+            "en": "square"
+          }
+          ]
+      },
+      {
         "name": "Professions",
         "words": [
           {
