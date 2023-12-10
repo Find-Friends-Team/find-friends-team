@@ -2,188 +2,6 @@
   "vocabulary": {
     "groups": [
       {
-        "name": "Free time",
-        "words": [
-          {
-            "gr": "παίζω",
-            "en": "to play"
-          },
-          {
-            "gr": "το μπάσκετ",
-            "en": "basketball"
-          },
-          {
-            "gr": "το βόλεϊ",
-            "en": "volleyball"
-          },
-          {
-            "gr": "η τηλεόραση",
-            "en": "TV"
-          },
-          {
-            "gr": "το ποδόσφαιρο",
-            "en": "football"
-          },
-          {
-            "gr": "ο αγώνας",
-            "en": "match"
-          },
-          {
-            "gr": "ο κινηματογράφος",
-            "en": "cinema"
-          },
-          {
-            "gr": "το μουσείο",
-            "en": "museum"
-          },
-          {
-            "gr": "η μουσική",
-            "en": "music"
-          },
-          {
-            "gr": "τραγουδάω",
-            "en": "to sing"
-          },
-          {
-            "gr": "πάω για ψώνια",
-            "en": "go shopping"
-          },
-          {
-            "gr": "ο υπολογιστής",
-            "en": "computer"
-          },
-          {
-            "gr": "μαθαίνω",
-            "en": "to learn"
-          },
-          {
-            "gr": "ταξιδεύω",
-            "en": "to travel"
-          },
-          {
-            "gr": "βγαίνω έξω",
-            "en": "to go out"
-          },
-          {
-            "gr": "ο καφές",
-            "en": "coffee"
-          },
-          {
-            "gr": "το ραδιόφωνο",
-            "en": "radio"
-          },
-          {
-            "gr": "ακούω",
-            "en": "to listen to"
-          },
-          {
-            "gr": "η θάλασσα",
-            "en": "sea"
-          },
-          {
-            "gr": "το πάρκο",
-            "en": "park"
-          },
-          {
-            "gr": "διαβάζω",
-            "en": "to read"
-          }
-        ]
-      },
-      {
-        "name": "My day",
-        "words": [
-          {
-            "gr": "ξυπνάω",
-            "en": "to wake up"
-          },
-          {
-            "gr": "πλένομαι",
-            "en": "to wash myself"
-          },
-          {
-            "gr": "τα δόντια",
-            "en": "teeth"
-          },
-          {
-            "gr": "βουρτσίζω",
-            "en": "to brush"
-          },
-          {
-            "gr": "χτενίζομαι",
-            "en": "to comb myself"
-          },
-          {
-            "gr": "το ντους",
-            "en": "shower"
-          },
-          {
-            "gr": "το μπάνιο",
-            "en": "bath"
-          },
-          {
-            "gr": "το πρωινό",
-            "en": "breakfast"
-          },
-          {
-            "gr": "το μεσημεριανό",
-            "en": "lunch"
-          },
-          {
-            "gr": "το δείπνο",
-            "en": "dinner"
-          },
-          {
-            "gr": "καθαρίζω",
-            "en": "to clean"
-          },
-          {
-            "gr": "η δουλειά",
-            "en": "work"
-          },
-          {
-            "gr": "κοιμάμαι",
-            "en": "to sleep"
-          },
-          {
-            "gr": "νωρίς",
-            "en": "early"
-          },
-          {
-            "gr": "αργά",
-            "en": "late"
-          },
-          {
-            "gr": "η αγορά",
-            "en": "market"
-          },
-          {
-            "gr": "μαγειρεύω",
-            "en": "to cook"
-          },
-          {
-            "gr": "πλένω",
-            "en": "to wash"
-          },
-          {
-            "gr": "ντύνομαι",
-            "en": "to dress myself up"
-          },
-          {
-            "gr": "τρώω",
-            "en": "to eat"
-          },
-          {
-            "gr": "πίνω",
-            "en": "to drink"
-          },
-          {
-            "gr": "το γραφείο",
-            "en": "office"
-          }
-        ]
-      },
-      {
         "name": "Meeting",
         "words": [
           {
@@ -298,6 +116,55 @@
           {
             "gr": "δίπλα",
             "en": "next to"
+          }
+        ]
+      },
+      {
+        "name": "Town",
+        "words": [
+          {
+            "gr": "οι κάτοικοι",
+            "en": "residents"
+          },
+          {
+            "gr": "η εκκλησία",
+            "en": "church"
+          },
+          {
+            "gr": "το νοσοκομείο",
+            "en": "hospital"
+          },
+          {
+            "gr": "το μουσείο",
+            "en": "museum"
+          },
+          {
+            "gr": "το ταχυδρομείο",
+            "en": "post office"
+          },
+          {
+            "gr": "το αεροδρόμιο",
+            "en": "airport"
+          },
+          {
+            "gr": "το λιμάνι",
+            "en": "port"
+          },
+          {
+            "gr": "η στάση",
+            "en": "bus stop"
+          },
+          {
+            "gr": "το σταθμός",
+            "en": "train station"
+          },
+          {
+            "gr": "το μέρος",
+            "en": "place"
+          },
+          {
+            "gr": "η πλατεία",
+            "en": "square"
           }
         ]
       },
@@ -480,44 +347,6 @@
         ]
       },
       {
-        "name": "Town",
-        "words": [
-          {"gr": "οι κάτοικοι",
-            "en": "residents"
-          },
-          {"gr": "η εκκλησία",
-            "en": "church"
-          },
-          {"gr": "το νοσοκομείο",
-            "en": "hospital"
-          },
-          {"gr": "το μουσείο",
-            "en": "museum"
-          },
-          {"gr": "το ταχυδρομείο",
-            "en": "post office"
-          },
-          {"gr": "το αεροδρόμιο",
-            "en": "airport"
-          },
-          {"gr": "το λιμάνι",
-            "en": "port"
-          },
-          {"gr": "η στάση",
-            "en": "bus stop"
-          },
-          {"gr": "το σταθμός",
-            "en": "train station"
-          },
-          {"gr": "το μέρος",
-            "en": "place"
-          },
-          {"gr": "η πλατεία",
-            "en": "square"
-          }
-          ]
-      },
-      {
         "name": "Professions",
         "words": [
           {
@@ -575,6 +404,188 @@
           {
             "gr": "μάγειρας",
             "en": "cook"
+          }
+        ]
+      },
+      {
+        "name": "Free time",
+        "words": [
+          {
+            "gr": "παίζω",
+            "en": "to play"
+          },
+          {
+            "gr": "το μπάσκετ",
+            "en": "basketball"
+          },
+          {
+            "gr": "το βόλεϊ",
+            "en": "volleyball"
+          },
+          {
+            "gr": "η τηλεόραση",
+            "en": "TV"
+          },
+          {
+            "gr": "το ποδόσφαιρο",
+            "en": "football"
+          },
+          {
+            "gr": "ο αγώνας",
+            "en": "match"
+          },
+          {
+            "gr": "ο κινηματογράφος",
+            "en": "cinema"
+          },
+          {
+            "gr": "το μουσείο",
+            "en": "museum"
+          },
+          {
+            "gr": "η μουσική",
+            "en": "music"
+          },
+          {
+            "gr": "τραγουδάω",
+            "en": "to sing"
+          },
+          {
+            "gr": "πάω για ψώνια",
+            "en": "go shopping"
+          },
+          {
+            "gr": "ο υπολογιστής",
+            "en": "computer"
+          },
+          {
+            "gr": "μαθαίνω",
+            "en": "to learn"
+          },
+          {
+            "gr": "ταξιδεύω",
+            "en": "to travel"
+          },
+          {
+            "gr": "βγαίνω έξω",
+            "en": "to go out"
+          },
+          {
+            "gr": "ο καφές",
+            "en": "coffee"
+          },
+          {
+            "gr": "το ραδιόφωνο",
+            "en": "radio"
+          },
+          {
+            "gr": "ακούω",
+            "en": "to listen to"
+          },
+          {
+            "gr": "η θάλασσα",
+            "en": "sea"
+          },
+          {
+            "gr": "το πάρκο",
+            "en": "park"
+          },
+          {
+            "gr": "διαβάζω",
+            "en": "to read"
+          }
+        ]
+      },
+      {
+        "name": "My day",
+        "words": [
+          {
+            "gr": "ξυπνάω",
+            "en": "to wake up"
+          },
+          {
+            "gr": "πλένομαι",
+            "en": "to wash myself"
+          },
+          {
+            "gr": "τα δόντια",
+            "en": "teeth"
+          },
+          {
+            "gr": "βουρτσίζω",
+            "en": "to brush"
+          },
+          {
+            "gr": "χτενίζομαι",
+            "en": "to comb myself"
+          },
+          {
+            "gr": "το ντους",
+            "en": "shower"
+          },
+          {
+            "gr": "το μπάνιο",
+            "en": "bath"
+          },
+          {
+            "gr": "το πρωινό",
+            "en": "breakfast"
+          },
+          {
+            "gr": "το μεσημεριανό",
+            "en": "lunch"
+          },
+          {
+            "gr": "το δείπνο",
+            "en": "dinner"
+          },
+          {
+            "gr": "καθαρίζω",
+            "en": "to clean"
+          },
+          {
+            "gr": "η δουλειά",
+            "en": "work"
+          },
+          {
+            "gr": "κοιμάμαι",
+            "en": "to sleep"
+          },
+          {
+            "gr": "νωρίς",
+            "en": "early"
+          },
+          {
+            "gr": "αργά",
+            "en": "late"
+          },
+          {
+            "gr": "η αγορά",
+            "en": "market"
+          },
+          {
+            "gr": "μαγειρεύω",
+            "en": "to cook"
+          },
+          {
+            "gr": "πλένω",
+            "en": "to wash"
+          },
+          {
+            "gr": "ντύνομαι",
+            "en": "to dress myself up"
+          },
+          {
+            "gr": "τρώω",
+            "en": "to eat"
+          },
+          {
+            "gr": "πίνω",
+            "en": "to drink"
+          },
+          {
+            "gr": "το γραφείο",
+            "en": "office"
           }
         ]
       }
