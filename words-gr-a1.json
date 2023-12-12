@@ -42,7 +42,7 @@
           },
           {
             "gr": "ξέρω",
-            "en": "to know"
+            "en": "I know"
           }
         ]
       },
@@ -51,7 +51,7 @@
         "words": [
           {
             "gr": "μένω",
-            "en": "to live"
+            "en": "I live"
           },
           {
             "gr": "η διεύθυνση",
@@ -430,7 +430,7 @@
         "words": [
           {
             "gr": "παίζω",
-            "en": "to play"
+            "en": "I play"
           },
           {
             "gr": "το μπάσκετ",
@@ -466,11 +466,11 @@
           },
           {
             "gr": "τραγουδάω",
-            "en": "to sing"
+            "en": "I sing"
           },
           {
             "gr": "πάω για ψώνια",
-            "en": "go shopping"
+            "en": "I go shopping"
           },
           {
             "gr": "ο υπολογιστής",
@@ -478,15 +478,15 @@
           },
           {
             "gr": "μαθαίνω",
-            "en": "to learn"
+            "en": "I learn"
           },
           {
             "gr": "ταξιδεύω",
-            "en": "to travel"
+            "en": "I travel"
           },
           {
             "gr": "βγαίνω έξω",
-            "en": "to go out"
+            "en": "I go out"
           },
           {
             "gr": "ο καφές",
@@ -498,7 +498,7 @@
           },
           {
             "gr": "ακούω",
-            "en": "to listen to"
+            "en": "I listen to"
           },
           {
             "gr": "η θάλασσα",
@@ -510,15 +510,15 @@
           },
           {
             "gr": "διαβάζω",
-            "en": "to read"
+            "en": "I read"
           },
           {
             "gr": "σπουδάζω",
-            "en": "to study"
+            "en": "I study"
           },
           {
             "gr": "πηγαίνω",
-            "en": "to go"
+            "en": "I go"
           },
           {
             "gr": "ελεύθερος χρόνος",
@@ -530,7 +530,7 @@
           },
           {
             "gr": "βλέπω",
-            "en": "to see"
+            "en": "I see"
           },
           {
             "gr": "το παιχνίδι στον υπολογιστή",
@@ -596,11 +596,11 @@
         "words": [
           {
             "gr": "ξυπνάω",
-            "en": "to wake up"
+            "en": "I wake up"
           },
           {
             "gr": "πλένομαι",
-            "en": "to wash myself"
+            "en": "I wash myself"
           },
           {
             "gr": "τα δόντια",
@@ -608,11 +608,11 @@
           },
           {
             "gr": "βουρτσίζω",
-            "en": "to brush"
+            "en": "I brush"
           },
           {
             "gr": "χτενίζομαι",
-            "en": "to comb myself"
+            "en": "I comb myself"
           },
           {
             "gr": "το ντους",
@@ -636,7 +636,7 @@
           },
           {
             "gr": "καθαρίζω",
-            "en": "to clean"
+            "en": "I clean"
           },
           {
             "gr": "η δουλειά",
@@ -644,7 +644,7 @@
           },
           {
             "gr": "κοιμάμαι",
-            "en": "to sleep"
+            "en": "I sleep"
           },
           {
             "gr": "νωρίς",
@@ -660,23 +660,23 @@
           },
           {
             "gr": "μαγειρεύω",
-            "en": "to cook"
+            "en": "I cook"
           },
           {
             "gr": "πλένω",
-            "en": "to wash"
+            "en": "I wash"
           },
           {
             "gr": "ντύνομαι",
-            "en": "to dress myself up"
+            "en": "I dress myself up"
           },
           {
             "gr": "τρώω",
-            "en": "to eat"
+            "en": "I eat"
           },
           {
             "gr": "πίνω",
-            "en": "to drink"
+            "en": "I drink"
           },
           {
             "gr": "το γραφείο",
@@ -696,27 +696,132 @@
           },
           {
             "gr": "φεύγω",
-            "en": "leave"
+            "en": "I leave"
           },
           {
             "gr": "γυρίζω",
-            "en": "return"
+            "en": "I return"
           },
           {
             "gr": "τελειώνω",
-            "en": "finish"
+            "en": "I finish"
           },
           {
             "gr": "ξαπλώνω",
-            "en": "lay down"
+            "en": "I lay down"
           },
           {
             "gr": "ντύνομαι",
-            "en": "dress up"
+            "en": "I dress up"
           },
           {
             "gr": "ετοιμάζω",
-            "en": "prepare"
+            "en": "I prepare"
+          }
+        ]
+      },
+      {
+        "name": "Travel",
+        "words": [
+          {
+            "gr": "το ταξίδι",
+            "en": "trip"
+          },
+          {
+            "gr": "θέλω",
+            "en": "I want"
+          },
+          {
+            "gr": "μέχρι",
+            "en": "until"
+          },
+          {
+            "gr": "μαζί μου",
+            "en": "with me"
+          },
+          {
+            "gr": "το εξωτερικό",
+            "en": "abroad"
+          },
+          {
+            "gr": "το βουνό",
+            "en": "mountain"
+          },
+          {
+            "gr": "η παραλία",
+            "en": "beach"
+          },
+          {
+            "gr": "το χωριό",
+            "en": "village"
+          },
+          {
+            "gr": "το ταξιδιωτικό γραφείο",
+            "en": "travel agency"
+          },
+          {
+            "gr": "η τιμή",
+            "en": "price"
+          },
+          {
+            "gr": "πρέπει",
+            "en": "must"
+          },
+          {
+            "gr": "αποφασίζω",
+            "en": "I decide"
+          },
+          {
+            "gr": "το εισιτήριο",
+            "en": "ticket"
+          },
+          {
+            "gr": "κλείνω ξενοδοχείο",
+            "en": "I book hotel"
+          },
+          {
+            "gr": "ψάχνω",
+            "en": "I look for"
+          },
+          {
+            "gr": "το δωμάτιο",
+            "en": "room"
+          },
+          {
+            "gr": "αγοράζω",
+            "en": "I buy"
+          },
+          {
+            "gr": "ακριβός",
+            "en": "expensive"
+          },
+          {
+            "gr": "φτηνός",
+            "en": "cheap"
+          },
+          {
+            "gr": "τα χρήματα",
+            "en": "money"
+          },
+          {
+            "gr": "το όνειρο",
+            "en": "money"
+          },
+          {
+            "gr": "η πραγματικότητα",
+            "en": "reality"
+          },
+          {
+            "gr": "η βαλίτσα",
+            "en": "suitcase"
+          },
+          {
+            "gr": "η φωτογραφική μηχανή",
+            "en": "the photo camera"
+          },
+          {
+            "gr": "ρωτάω",
+            "en": "I ask"
           }
         ]
       }
