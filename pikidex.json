@@ -1210,6 +1210,20 @@
       ]
     },
     {
+      "icon": "ac_unit_outlined",
+      "name": "Snowy Day — Snow",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "blue"
+        },
+        {
+          "id": 2,
+          "color": "white"
+        }
+      ]
+    },
+    {
       "icon": "attractions",
       "name": "Theme Park — Ferris Wheel",
       "pikmins": [
