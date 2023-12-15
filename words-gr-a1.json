@@ -190,6 +190,158 @@
           }
         ]
       },
+      {"name":  "Numbers",
+      "words": [
+        {
+          "gr": "ένα",
+          "en": "one"
+        },
+        {
+          "gr": "δύο",
+          "en": "two"
+        },
+        {
+          "gr": "τρία",
+          "en": "three"
+        },
+        {
+          "gr": "τέσσερα",
+          "en": "four"
+        },
+        {
+          "gr": "πέντε",
+          "en": "five"
+        },
+        {
+          "gr": "έξι",
+          "en": "six"
+        },
+        {
+          "gr": "επτά",
+          "en": "seven"
+        },
+        {
+          "gr": "οκτώ",
+          "en": "eight"
+        },
+        {
+          "gr": "εννέα",
+          "en": "nine"
+        },
+        {
+          "gr": "δέκα",
+          "en": "ten"
+        },
+        {
+          "gr": "έντεκα",
+          "en": "eleven"
+        },
+        {
+          "gr": "δώδεκα",
+          "en": "twelve"
+        },
+        {
+          "gr": "δεκατρία",
+          "en": "thirteen"
+        },
+        {
+          "gr": "δεκατέσσερα",
+          "en": "fourteen"
+        },
+        {
+          "gr": "δεκαπέντε",
+          "en": "fifteen"
+        },
+        {
+          "gr": "δεκαέξι",
+          "en": "sixteen"
+        },
+        {
+          "gr": "δεκαεπτά",
+          "en": "seventeen"
+        },
+        {
+          "gr": "δεκαοκτώ",
+          "en": "eighteen"
+        },
+        {
+          "gr": "δεκαεννέα",
+          "en": "nineteen"
+        },
+        {
+          "gr": "είκοσι",
+          "en": "twenty"
+        },
+        {
+          "gr": "τριάντα",
+          "en": "thirty"
+        },
+        {
+          "gr": "σαράντα",
+          "en": "forty"
+        },
+        {
+          "gr": "πενήντα",
+          "en": "fifty"
+        },
+        {
+          "gr": "εξήντα",
+          "en": "sixty"
+        },
+        {
+          "gr": "εβδομήντα",
+          "en": "seventy"
+        },
+        {
+          "gr": "ογδόντα",
+          "en": "eighty"
+        },
+        {
+          "gr": "ενενήντα",
+          "en": "ninety"
+        },
+        {
+          "gr": "εκατό",
+          "en": "hundred"
+        },
+        {
+          "gr": "διακόσια",
+          "en": "two hundred"
+        },
+        {
+          "gr": "τριακόσια",
+          "en": "three hundred"
+        },
+        {
+          "gr": "τετρακόσια",
+          "en": "four hundred"
+        },
+        {
+          "gr": "πεντακόσια",
+          "en": "five hundred"
+        },
+        {
+          "gr": "εξακόσια",
+          "en": "six hundred"
+        },
+        {
+          "gr": "επτακόσια",
+          "en": "seven hundred"
+        },
+        {
+          "gr": "οκτακόσια",
+          "en": "eight hundred"
+        },
+        {
+          "gr": "εννιακόσια",
+          "en": "nine hundred"
+        },
+        {
+          "gr": "χίλια",
+          "en": "thousand"
+        }
+      ]
+      },
       {
         "name": "Family",
         "words": [
