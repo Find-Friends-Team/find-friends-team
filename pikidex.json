@@ -1433,9 +1433,84 @@
     },
     {
       "icon": "temple",
-      "name": "Shrines and Temples — Fortune",
+      "name": "Shrines and Temples — Fortune (Very Lucky)",
       "availableFrom": "2023-10-03",
       "isRegional": true,
+      "color": "purple",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "temple",
+      "name": "Shrines and Temples — Fortune (Lucky)",
+      "availableFrom": "2023-10-03",
+      "isRegional": true,
+      "color": "blue",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "temple",
+      "name": "Shrines and Temples — Fortune (A Little Lucky)",
+      "availableFrom": "2023-10-03",
+      "isRegional": true,
+      "color": "grey",
       "pikmins": [
         {
           "id": 1,
