@@ -1510,7 +1510,6 @@
       "name": "Shrines and Temples — Fortune (A Little Lucky)",
       "availableFrom": "2023-10-03",
       "isRegional": true,
-      "color": "grey",
       "pikmins": [
         {
           "id": 1,
