@@ -1213,6 +1213,119 @@
             "en": "to be in pain"
           }
         ]
+      },
+      {
+        "name": "Home",
+        "words": [
+          {
+            "gr": "το σπίτι",
+            "en": "house (home)"
+          },
+          {
+            "gr": "το διαμέρισμα",
+            "en": "flat"
+          },
+          {
+            "gr": "η πολυκατοικία",
+            "en": "apartment building"
+          },
+          {
+            "gr": "η μονοκατοικία",
+            "en": "single-family house"
+          },
+          {
+            "gr": "κατοικώ",
+            "en": "I live"
+          },
+          {
+            "gr": "τετραγωνικό μέτρο",
+            "en": "square meter"
+          },
+          {
+            "gr": "το σαλόνι",
+            "en": "living room"
+          },
+          {
+            "gr": "η κουζίνα",
+            "en": "kitchen"
+          },
+          {
+            "gr": "το μπάνιο",
+            "en": "bathroom"
+          },
+          {
+            "gr": "η ντουλάπα",
+            "en": "wardrobe, closet"
+          },
+          {
+            "gr": "η είσοδος",
+            "en": "entrance"
+          },
+          {
+            "gr": "ο καθρέφτης",
+            "en": "mirror"
+          },
+          {
+            "gr": "το ασανσέρ",
+            "en": "elevator"
+          },
+          {
+            "gr": "το κτίριο",
+            "en": "building"
+          },
+          {
+            "gr": "η οικοδομή",
+            "en": "building"
+          },
+          {
+            "gr": "η περιοχή",
+            "en": "area"
+          },
+          {
+            "gr": "ήσυχος",
+            "en": "quiet"
+          },
+          {
+            "gr": "το ισόγειο",
+            "en": "ground floor"
+          },
+          {
+            "gr": "ο κήπος",
+            "en": "garden"
+          },
+          {
+            "gr": "το δέντρο",
+            "en": "tree"
+          },
+          {
+            "gr": "το λουλούδι",
+            "en": "flower"
+          },
+          {
+            "gr": "το φως",
+            "en": "light"
+          },
+          {
+            "gr": "το ντουλάπι",
+            "en": "cupboard"
+          },
+          {
+            "gr": "το διαδίκτυο",
+            "en": "internet"
+          },
+          {
+            "gr": "το μπαλκόνι",
+            "en": "balcony"
+          },
+          {
+            "gr": "το τζάκι",
+            "en": "fireplace"
+          },
+          {
+            "gr": "ο όροφος",
+            "en": "floor"
+          }
+        ]
       }
     ]
   }
