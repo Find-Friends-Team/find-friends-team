@@ -1215,6 +1215,51 @@
         ]
       },
       {
+        "name": "Ordinal numerals",
+        "words": [
+          {
+            "gr": "πρώτος",
+            "en": "first"
+          },
+          {
+            "gr": "δεύτερος",
+            "en": "second"
+          },
+          {
+            "gr": "τρίτος",
+            "en": "third"
+          },
+          {
+            "gr": "τέταρτος",
+            "en": "fourth"
+          },
+          {
+            "gr": "πέμπτος",
+            "en": "fifth"
+          },
+          {
+            "gr": "έκτος",
+            "en": "sixth"
+          },
+          {
+            "gr": "έβδομος",
+            "en": "seventh"
+          },
+          {
+            "gr": "όγδοος",
+            "en": "eighth"
+          },
+          {
+            "gr": "ένατος",
+            "en": "ninth"
+          },
+          {
+            "gr": "δέκατος",
+            "en": "tenth"
+          }
+        ]
+      },
+      {
         "name": "Home",
         "words": [
           {
