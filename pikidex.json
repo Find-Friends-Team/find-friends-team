@@ -2090,11 +2090,9 @@
     },
     {
       "icon": "question_mark_outlined",
-      "name": "Special — 2024 Glasses",
+      "name": "Special — 2023 Glasses",
       "color": "green",
       "isSeasonal": true,
-      "seasonStart": "2024-01-01",
-      "seasonEnd": "2024-02-04",
       "pikmins": [
         {
           "id": 1,
@@ -2128,9 +2126,11 @@
     },
     {
       "icon": "question_mark_outlined",
-      "name": "Special — 2023 Glasses",
+      "name": "Special — 2024 Glasses",
       "color": "green",
       "isSeasonal": true,
+      "seasonStart": "2024-01-01",
+      "seasonEnd": "2024-02-04",
       "pikmins": [
         {
           "id": 1,
