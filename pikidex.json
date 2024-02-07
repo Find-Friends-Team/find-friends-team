@@ -2167,6 +2167,8 @@
       "name": "Special — Present Sticker",
       "color": "pink",
       "isSeasonal": true,
+      "seasonStart": "2024-02-12",
+      "seasonEnd": "2024-03-10",
       "pikmins": [
         {
           "id": 1,
