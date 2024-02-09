@@ -1342,6 +1342,22 @@
         {
           "id": 3,
           "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
         }
       ]
     },
@@ -2167,6 +2183,8 @@
       "name": "Special — Present Sticker",
       "color": "pink",
       "isSeasonal": true,
+      "seasonStart": "2024-02-12",
+      "seasonEnd": "2024-03-10",
       "pikmins": [
         {
           "id": 1,
