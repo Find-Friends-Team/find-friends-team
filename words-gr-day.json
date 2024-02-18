@@ -3,106 +3,126 @@
     "words": [
       {
         "gr": "η διεύθυνση",
-        "en": "address"
+        "en": "the address"
       },
       {
         "gr": "η οδός",
-        "en": "street"
+        "en": "the street"
       },
       {
         "gr": "ο αριθμός",
-        "en": "number"
+        "en": "the number"
       },
       {
         "gr": "η πόλη",
-        "en": "city"
+        "en": "the city"
       },
       {
         "gr": "η χώρα",
-        "en": "country"
+        "en": "the country"
       },
       {
         "gr": "το τηλέφωνο",
-        "en": "phone"
+        "en": "the phone"
       },
       {
         "gr": "η εκκλησία",
-        "en": "church"
+        "en": "the church"
       },
       {
         "gr": "το νοσοκομείο",
-        "en": "hospital"
+        "en": "the hospital"
       },
       {
         "gr": "το μουσείο",
-        "en": "museum"
+        "en": "the museum"
       },
       {
         "gr": "το ταχυδρομείο",
-        "en": "post office"
+        "en": "the post office"
       },
       {
         "gr": "το αεροδρόμιο",
-        "en": "airport"
+        "en": "the airport"
       },
       {
         "gr": "το λιμάνι",
-        "en": "port"
+        "en": "the port"
       },
       {
         "gr": "η στάση",
-        "en": "bus stop"
+        "en": "the bus stop"
       },
       {
         "gr": "το σταθμός",
-        "en": "train station"
+        "en": "the train station"
       },
       {
         "gr": "η καφετέρια",
-        "en": "cafeteria"
+        "en": "the cafeteria"
       },
       {
         "gr": "το σχολείο",
-        "en": "school"
+        "en": "the school"
       },
       {
         "gr": "η τράπεζα",
-        "en": "bank"
+        "en": "the bank"
       },
       {
         "gr": "το ξενοδοχείο",
-        "en": "hotel"
+        "en": "the hotel"
       },
       {
         "gr": "ο χειμώνας",
-        "en": "winter"
+        "en": "the winter"
       },
       {
         "gr": "η άνοιξη",
-        "en": "spring"
+        "en": "the spring"
       },
       {
         "gr": "το καλοκαίρι",
-        "en": "summer"
+        "en": "the summer"
       },
       {
         "gr": "το φθινόπωρο",
-        "en": "autumn"
+        "en": "the autumn"
       },
       {
         "gr": "το ταξίδι",
-        "en": "trip"
+        "en": "the trip"
       },{
         "gr": "το βουνό",
-        "en": "mountain"
+        "en": "the mountain"
       },
       {
         "gr": "η παραλία",
-        "en": "beach"
+        "en": "the beach"
       },
       {
-        "gr": "το χωριό",
-        "en": "village"
+        "gr": "το ασανσέρ",
+        "en": "the elevator"
+      },
+      {
+        "gr": "παραδοσιακός",
+        "en": "traditional"
+      },
+      {
+        "gr": "το ενοίκιο",
+        "en": "the rent"
+      },
+      {
+        "gr": "το παράθυρο",
+        "en": "the window"
+      },
+      {
+        "gr": "ο τοίχος",
+        "en": "the wall"
+      },
+      {
+        "gr": "η πόρτα",
+        "en": "the day"
       }
     ]
   }
