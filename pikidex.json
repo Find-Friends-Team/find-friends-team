@@ -2009,6 +2009,81 @@
       ]
     },
     {
+      "icon": "local_florist",
+      "name": "Special — Flower Card 2024¹",
+      "color": "red",
+      "isSeasonal": true,
+      "seasonStart": "2024-03-01",
+      "seasonEnd": "2024-04-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "red"
+        },
+        {
+          "id": 3,
+          "color": "yellow"
+        },
+        {
+          "id": 4,
+          "color": "yellow"
+        },
+        {
+          "id": 5,
+          "color": "blue"
+        },
+        {
+          "id": 6,
+          "color": "blue"
+        },
+        {
+          "id": 7,
+          "color": "purple"
+        }
+      ]
+    },    {
+      "icon": "local_florist",
+      "name": "Special — Flower Card 2024²",
+      "color": "grey",
+      "isSeasonal": true,
+      "seasonStart": "2024-03-01",
+      "seasonEnd": "2024-04-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "purple"
+        },
+        {
+          "id": 2,
+          "color": "white"
+        },
+        {
+          "id": 3,
+          "color": "white"
+        },
+        {
+          "id": 4,
+          "color": "grey"
+        },
+        {
+          "id": 5,
+          "color": "grey"
+        },
+        {
+          "id": 6,
+          "color": "pink"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
       "icon": "sentiment_very_dissatisfied",
       "name": "Special — Jack-O'Lantern",
       "isSeasonal": true,
