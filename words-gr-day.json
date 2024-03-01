@@ -2,12 +2,12 @@
   "vocabulary": {
     "words": [
       {
-        "gr": "η διεύθυνση",
-        "en": "the address"
-      },
-      {
         "gr": "η οδός",
         "en": "the street"
+      },
+      {
+        "gr": "η διεύθυνση",
+        "en": "the address"
       },
       {
         "gr": "ο αριθμός",
