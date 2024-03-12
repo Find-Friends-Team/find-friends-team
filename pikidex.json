@@ -2366,6 +2366,28 @@
     },
     {
       "icon": "question_mark_outlined",
+      "name": "Special — Reverse Valentine’s Day Sticker",
+      "color": "blue",
+      "isSeasonal": true,
+      "seasonStart": "2024-03-11",
+      "seasonEnd": "2024-03-30",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
       "name": "Special — Present Sticker (Gold)",
       "color": "yellow",
       "isSeasonal": true,
