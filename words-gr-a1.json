@@ -2273,6 +2273,114 @@
         {
           "gr": "το παγωτό",
           "en": "ice cream"
+        },
+        {
+          "gr": "το φρούτο",
+          "en": "fruit"
+        },
+        {
+          "gr": "το λαχανικό",
+          "en": "vegetable"
+        },
+        {
+          "gr": "τα δημητριακά",
+          "en": "cereals"
+        },
+        {
+          "gr": "το τυρί",
+          "en": "cheese"
+        },
+        {
+          "gr": "το αναψυκτικό",
+          "en": "refreshment"
+        },
+        {
+          "gr": "το κρασί",
+          "en": "wine"
+        },
+        {
+          "gr": "το ουίσκι",
+          "en": "whiskey"
+        },
+        {
+          "gr": "η σαμπάνια",
+          "en": "champagne"
+        },
+        {
+          "gr": "το ελαιόλαδο",
+          "en": "olive oil"
+        },
+        {
+          "gr": "οι πατάτες τηγανιτές",
+          "en": "french fries"
+        },
+        {
+          "gr": "το μαρούλι",
+          "en": "lettuce"
+        },
+        {
+          "gr": "η πιπεριά",
+          "en": "pepper plant"
+        },
+        {
+          "gr": "ο αρακάς",
+          "en": "peas"
+        },
+        {
+          "gr": "η μελιτζάνα",
+          "en": "aubergine, eggplant"
+        },
+        {
+          "gr": "το κολοκυθάκι",
+          "en": "zucchini"
+        },
+        {
+          "gr": "ο μαϊντανός",
+          "en": "parsley"
+        },
+        {
+          "gr": "το σκόρδο",
+          "en": "garlic"
+        },
+        {
+          "gr": "το όσπριο",
+          "en": "legume"
+        },
+        {
+          "gr": "το ροδάκινο",
+          "en": "peach"
+        },
+        {
+          "gr": "το βερίκοκο",
+          "en": "apricot"
+        },
+        {
+        "gr": "η φράουλα",
+        "en": "strawberry"
+        },
+        {
+          "gr": "το κεράσι",
+          "en": "cherry"
+        },
+        {
+          "gr": "το καρπούζι",
+          "en": "watermelon"
+        },
+        {
+          "gr": "το πεπόνι",
+          "en": "melon"
+        },
+        {
+          "gr": "το βοδινό",
+          "en": "beef"
+        },
+        {
+          "gr": "το χοιρινό",
+          "en": "pork"
+        },
+        {
+          "gr": "ο κιμάς",
+          "en": "minced meat"
         }
       ]},
       { "name":  "Grocery store",
