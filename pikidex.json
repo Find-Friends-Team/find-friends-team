@@ -2450,6 +2450,46 @@
       "icon": "egg",
       "name": "Special — Easter Egg",
       "isSeasonal": true,
+      "seasonStart": "2024-04-01",
+      "seasonEnd": "2024-05-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "egg",
+      "color": "pink",
+      "name": "Special — Bunny Egg",
+      "isSeasonal": true,
+      "seasonStart": "2024-04-01",
+      "seasonEnd": "2024-05-07",
       "pikmins": [
         {
           "id": 1,
