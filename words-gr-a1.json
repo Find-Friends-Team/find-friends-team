@@ -2626,6 +2626,83 @@
             "en": "I rub"
           }
         ]
+      },
+      {
+        "name": "Studying and working",
+        "words": [
+          {
+            "gr": "η ζωγραφική",
+            "en": "painting"
+          },
+          {
+            "gr": "η γνώση",
+            "en": "knowledge"
+          },
+          {
+            "gr": "η εγγραφή",
+            "en": "registration"
+          },
+          {
+            "gr": "η απόφαση",
+            "en": "decision"
+          },
+          {
+            "gr": "το μάθημα",
+            "en": "lesson"
+          },
+          {
+            "gr": "δωρεάν",
+            "en": "free"
+          },
+          {
+            "gr": "το φροντιστήριο",
+            "en": "tutorial"
+          },
+          {
+            "gr": "το τετράδιο",
+            "en": "notebook"
+          },
+          {
+            "gr": "το μολύβι",
+            "en": "pencil"
+          },
+          {
+            "gr": "η ξύστρα",
+            "en": "sharpener"
+          },
+          {
+            "gr": "το στυλό",
+            "en": "pen"
+          },
+          {
+            "gr": "ο χάρακας",
+            "en": "ruler"
+          },
+          {
+            "gr": "η κασετίνα",
+            "en": "pencil box"
+          },
+          {
+            "gr": "η κιθάρα",
+            "en": "guitar"
+          },
+          {
+            "gr": "το θρανίο",
+            "en": "desk"
+          },
+          {
+            "gr": "ο μαθητής, η μαθήτρια",
+            "en": "school student"
+          },
+          {
+            "gr": "ο φοιτητής, η φοιτήτρια",
+            "en": "student"
+          },
+          {
+            "gr": "η σβήστρα",
+            "en": "eraser"
+          }
+        ]
       }
     ]
   }
