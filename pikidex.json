@@ -2743,7 +2743,7 @@
       ]
     },
     {
-      "icon": "edit_road_outlined",
+      "icon": "question_mark_outlined",
       "name": "Special — Winter Sticker",
       "color": "white",
       "isSeasonal": true,
