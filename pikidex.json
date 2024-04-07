@@ -1050,44 +1050,6 @@
     },
     {
       "icon": "edit_road_outlined",
-      "name": "Roadside — Winter Sticker",
-      "color": "white",
-      "isSeasonal": true,
-      "seasonStart": "2023-12-06",
-      "seasonEnd": "2023-12-31",
-      "pikmins": [
-        {
-          "id": 1,
-          "color": "red"
-        },
-        {
-          "id": 2,
-          "color": "yellow"
-        },
-        {
-          "id": 3,
-          "color": "blue"
-        },
-        {
-          "id": 4,
-          "color": "white"
-        },
-        {
-          "id": 5,
-          "color": "purple"
-        },
-        {
-          "id": 6,
-          "color": "grey"
-        },
-        {
-          "id": 7,
-          "color": "pink"
-        }
-      ]
-    },
-    {
-      "icon": "edit_road_outlined",
       "name": "Roadside — Coin",
       "color": "grey",
       "pikmins": [
@@ -2749,6 +2711,44 @@
       "isSeasonal": true,
       "seasonStart": "2023-11-03",
       "seasonEnd": "2023-11-28",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "edit_road_outlined",
+      "name": "Special — Winter Sticker",
+      "color": "white",
+      "isSeasonal": true,
+      "seasonStart": "2023-12-06",
+      "seasonEnd": "2023-12-31",
       "pikmins": [
         {
           "id": 1,
