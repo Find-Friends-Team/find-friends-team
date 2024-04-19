@@ -2816,6 +2816,127 @@
             "en": "tooth"
           }
         ]
+      },
+      {
+        "name": "Health",
+        "words": [
+          {
+            "gr": "η υγεία",
+            "en": "health"
+          },
+          {
+            "gr": "φοβάμαι",
+            "en": "I'm afraid"
+          },
+          {
+            "gr": "αρρωσταίνω",
+            "en": "I get sick"
+          },
+          {
+            "gr": "περαστικά",
+            "en": "Get well soon"
+          },
+          {
+            "gr": "ο πυρετός",
+            "en": "fever"
+          },
+          {
+            "gr": "ο βήχας",
+            "en": "cough"
+          },
+          {
+            "gr": "παρακάτω",
+            "en": "following"
+          },
+          {
+            "gr": "η συμβουλή",
+            "en": "advice"
+          },
+          {
+            "gr": "η αρρώστια",
+            "en": "illness"
+          },
+          {
+            "gr": "αρκετά",
+            "en": "enough"
+          },
+          {
+            "gr": "το άγχος",
+            "en": "stress"
+          },
+          {
+            "gr": "το φάρμακο",
+            "en": "medicine"
+          },
+          {
+            "gr": "ειδικά",
+            "en": "especially"
+          },
+          {
+            "gr": "ο παιδίατρος",
+            "en": "pediatrician"
+          },
+          {
+            "gr": "αμέσως",
+            "en": "right away"
+          },
+          {
+            "gr": "το χάπι",
+            "en": "pill"
+          },
+          {
+            "gr": "το συρόπι",
+            "en": "syrup"
+          },
+          {
+          "gr": "ο πόνος",
+          "en": "pain"
+          },
+          {
+          "gr": "πονάω",
+          "en": "I'm in pain"
+          },
+          {
+          "gr": "ο χειρουργός",
+          "en": "surgeon"
+          },
+          {
+          "gr": "η ένεση",
+          "en": "injection"
+          },
+          {
+          "gr": "σοβαρός",
+          "en": "serious"
+          },
+          {
+          "gr": "απλός",
+          "en": "simple"
+          },
+          {
+          "gr": "σημαντικός",
+          "en": "important"
+          },
+          {
+          "gr": "η ανάσα",
+          "en": "breath"
+          },
+          {
+            "gr": "ο πονοκέφαλος",
+            "en": "headache"
+          },
+          {
+            "gr": "ανησυχώ",
+            "en": "I worry"
+          },
+          {
+            "gr": "το φαρμακείο",
+            "en": "pharmacy"
+          },
+          {
+            "gr": "η συνταγή",
+            "en": "prescription"
+          }
+        ]
       }
     ]
   }
