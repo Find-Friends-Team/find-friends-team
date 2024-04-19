@@ -2937,6 +2937,63 @@
             "en": "prescription"
           }
         ]
+      },
+      {
+        "name": "Bank",
+        "words": [
+          {
+          "gr": "ο λογαριασμός",
+          "en": "account"
+          },
+          {
+          "gr": "η οδηγία",
+          "en": "directive, instruction"
+          },
+          {
+          "gr": "ανάληψη",
+          "en": "withdrawal"
+          },
+          {
+            "gr": "η κατάθεση",
+            "en": "deposit"
+          },
+          {
+            "gr": "μόνιμος",
+            "en": "permanent"
+          },
+          {
+            "gr": "το βήμα",
+            "en": "step"
+          },
+          {
+            "gr": "η αίτηση",
+            "en": "request"
+          },
+          {
+            "gr": "η ταυτότητα",
+            "en": "identity card"
+          },
+          {
+            "gr": "απαραίτητος",
+            "en": "necessary"
+          },
+          {
+            "gr": "η μόνιμη κατοικία",
+            "en": "permanent residence"
+          },
+          {
+            "gr": "το έγγραφο",
+            "en": "document"
+          },
+          {
+            "gr": "ανοίγω",
+            "en": "I open"
+          },
+          {
+            "gr": "το ραντεβού",
+            "en": "appointment"
+          }
+        ]
       }
     ]
   }
