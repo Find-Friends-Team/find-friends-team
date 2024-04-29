@@ -3028,7 +3028,7 @@
         ]
       },
       {
-        "name": "Bank",
+        "name": "Public services",
         "words": [
           {
           "gr": "ο λογαριασμός",
@@ -3039,7 +3039,7 @@
           "en": "directive, instruction"
           },
           {
-          "gr": "ανάληψη",
+          "gr": "η ανάληψη",
           "en": "withdrawal"
           },
           {
@@ -3056,7 +3056,7 @@
           },
           {
             "gr": "η αίτηση",
-            "en": "request"
+            "en": "request, application form"
           },
           {
             "gr": "η ταυτότητα",
@@ -3081,6 +3081,122 @@
           {
             "gr": "το ραντεβού",
             "en": "appointment"
+          },
+          {
+            "gr": "η κάρτα",
+            "en": "card"
+          },
+          {
+            "gr": "πληρώνω",
+            "en": "I pay"
+          },
+          {
+            "gr": "προσωπικά στοιχεία",
+            "en": "personal information"
+          },
+          {
+            "gr": "η εθνικότητα",
+            "en": "nationality"
+          },
+          {
+            "gr": "το φύλο",
+            "en": "gender"
+          },
+          {
+            "gr": "η ημερομηνία γέννησης",
+            "en": "date of birth"
+          },
+          {
+            "gr": "το επάγγελμα",
+            "en": "profession"
+          },
+          {
+            "gr": "οικογενειακή κατάσταση",
+            "en": "marital condition"
+          },
+          {
+            "gr": "το διαβατήριο",
+            "en": "passport"
+          },
+          {
+            "gr": "το ρεύμα / ο ηλεκτρισμός",
+            "en": "electricity"
+          },
+          {
+            "gr": "συμπληρώνω",
+            "en": "I fill in"
+          },
+          {
+            "gr": "το γράμμα",
+            "en": "letter"
+          },
+          {
+            "gr": "το απλό γράμμα",
+            "en": "simple letter"
+          },
+          {
+            "gr": "το συστημένο γράμμα",
+            "en": "registered letter"
+          },
+          {
+            "gr": "το επείγον γράμμα",
+            "en": "urgent letter"
+          },
+          {
+            "gr": "το πακέτο / το δέμα",
+            "en": "package"
+          },
+          {
+            "gr": "το γραμματόσημο",
+            "en": "postal stamp"
+          },
+          {
+            "gr": "το γραμματοκιβώτιο",
+            "en": "mailbox"
+          },
+          {
+            "gr": "κολλάω",
+            "en": "I stick, I glue"
+          },
+          {
+            "gr": "ο φάκελος",
+            "en": "envelope"
+          },
+          {
+            "gr": "η δημόσια υπηρεσία",
+            "en": "public service"
+          },
+          {
+            "gr": "το ατύχημα",
+            "en": "accident"
+          },
+          {
+            "gr": "η αστυνομία",
+            "en": "police"
+          },
+          {
+            "gr": "η τροχαία",
+            "en": "traffic police"
+          },
+          {
+            "gr": "χτυπάω",
+            "en": "I hit"
+          },
+          {
+            "gr": "το ωράριο",
+            "en": "timetable"
+          },
+          {
+            "gr": "υπογράφω",
+            "en": "I sign"
+          },
+          {
+            "gr": "ευγενικός",
+            "en": "gentle, polite"
+          },
+          {
+            "gr": "τυχερός",
+            "en": "lucky"
           }
         ]
       }
