@@ -2833,6 +2833,82 @@
           "color": "pink"
         }
       ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Playing Card of Diamonds¹",
+      "color": "red",
+      "isSeasonal": true,
+      "seasonStart": "2024-05-01",
+      "seasonEnd": "2024-06-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Playing Card of Diamonds²",
+      "color": "red",
+      "isSeasonal": true,
+      "seasonStart": "2024-05-01",
+      "seasonEnd": "2024-06-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
     }
   ],
   "advancedCollection": [
