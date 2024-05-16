@@ -2760,11 +2760,11 @@
     },
     {
       "icon": "question_mark_outlined",
-      "name": "Special — Winter Sticker",
-      "color": "white",
+      "name": "Special — Spring Sticker",
+      "color": "yellow",
       "isSeasonal": true,
-      "seasonStart": "2023-12-06",
-      "seasonEnd": "2023-12-31",
+      "seasonStart": "2024-04-13",
+      "seasonEnd": "2024-05-07",
       "pikmins": [
         {
           "id": 1,
@@ -2798,11 +2798,11 @@
     },
     {
       "icon": "question_mark_outlined",
-      "name": "Special — Spring Sticker",
-      "color": "yellow",
+      "name": "Special — Winter Sticker",
+      "color": "white",
       "isSeasonal": true,
-      "seasonStart": "2024-04-13",
-      "seasonEnd": "2024-05-07",
+      "seasonStart": "2023-12-06",
+      "seasonEnd": "2023-12-31",
       "pikmins": [
         {
           "id": 1,
