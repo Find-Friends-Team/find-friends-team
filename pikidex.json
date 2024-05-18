@@ -2214,6 +2214,8 @@
       "name": "Special — Koppaite Space Suit",
       "color": "blue",
       "isSeasonal": true,
+      "seasonStart": "2024-05-18",
+      "seasonEnd": "2024-06-07",
       "pikmins": [
         {
           "id": 1,
@@ -2541,6 +2543,8 @@
       "name": "Special — Pikmin 4 Spaceship",
       "color": "blue",
       "isSeasonal": true,
+      "seasonStart": "2024-05-18",
+      "seasonEnd": "2024-06-07",
       "pikmins": [
         {
           "id": 1,
