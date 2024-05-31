@@ -2,124 +2,124 @@
   "vocabulary": {
     "words": [
       {
-        "gr": "το ρούχο",
-        "en": "the cloth"
+        "gr": "το ωράριο",
+        "en": "timetable"
       },
       {
-        "gr": "το τηγάνι",
-        "en": "the frying pan"
+        "gr": "η αστυνομία",
+        "en": "police"
+      },
+      {
+        "gr": "το γράμμα",
+        "en": "letter"
+      },
+      {
+        "gr": "η ανάσα",
+        "en": "breath"
+      },
+      {
+        "gr": "το δάχτυλο",
+        "en": "finger"
+      },
+      {
+        "gr": "η κιθάρα",
+        "en": "guitar"
+      },
+      {
+        "gr": "ο φάκελος",
+        "en": "envelope"
+      },
+      {
+        "gr": "ο χάρακας",
+        "en": "ruler"
+      },
+      {
+        "gr": "η συνταγή",
+        "en": "recipe"
+      },
+      {
+        "gr": "η φράουλα",
+        "en": "strawberry"
+      },
+      {
+        "gr": "το φάρμακο",
+        "en": "medicine"
+      },
+      {
+        "gr": "η συμβουλή",
+        "en": "advice"
+      },
+      {
+        "gr": "το μπάνιο",
+        "en": "bathroom"
       },
       {
         "gr": "το φανέλα",
-        "en": "the t-shirt"
+        "en": "t-shirt"
       },
       {
-        "gr": "το ζευγάρι",
-        "en": "the pair"
+        "gr": "το κρεμμύδι",
+        "en": "onion"
       },
       {
-        "gr": "η γιορτή",
-        "en": "the celebration"
+        "gr": "το παιχνίδι",
+        "en": "toy"
       },
       {
-        "gr": "το χρώμα",
-        "en": "color"
+        "gr": "το τραπέζι",
+        "en": "table"
       },
       {
-        "gr": "η κουβέρτα",
-        "en": "blanket"
+        "gr": "ο ανιψιός",
+        "en": "nephew"
       },
       {
-        "gr": "ο πίνακας",
-        "en": "painting"
+        "gr": "το χωριό",
+        "en": "village"
       },
       {
-        "gr": "το κουτάλι",
-        "en": "spoon"
+        "gr": "το κλειδί",
+        "en": "key"
       },
       {
-        "gr": "ο γείτονας",
-        "en": "neighbour"
+        "gr": "η μπριζόλα",
+        "en": "steak"
       },
       {
-        "gr": "το κουτί",
-        "en": "box"
+        "gr": "το στόμα",
+        "en": "mouth"
       },
       {
-        "gr": "το λουλούδι",
-        "en": "flower"
+        "gr": "το σακάκι",
+        "en": "jacket"
       },
       {
-        "gr": "το ασανσέρ",
-        "en": "elevator"
+        "gr": "το ατύχημα",
+        "en": "accident"
       },
       {
-        "gr": "το κρεβάτι",
-        "en": "bed"
+        "gr": "το αλάτι",
+        "en": "salt"
       },
       {
-        "gr": "το πλοίο",
-        "en": "ship"
+        "gr": "το ραντεβού",
+        "en": "appointment"
       },
       {
-        "gr": "η μπλούζα",
-        "en": "the blouse"
+        "gr": "το πεπόνι",
+        "en": "melon"
       },
       {
-        "gr": "το πέδιλο",
-        "en": "the sandal"
+        "gr": "η εφημερίδα",
+        "en": "newspaper"
       },
       {
-        "gr": "η έκπληξη",
-        "en": "the surprise"
+        "gr": "το τηγάνι",
+        "en": "frying pan"
       },
       {
-        "gr": "o δάσκαλος",
-        "en": "the teacher"
-      },
-      {
-        "gr": "η μουσική",
-        "en": "the music"
-      },
-      {
-        "gr": "η θάλασσα",
-        "en": "the sea"
-      },
-      {
-        "gr": "ο ταμίας",
-        "en": "the cashier"
-      },
-      {
-        "gr": "ο ουρανός",
-        "en": "the sky"
-      },
-      {
-        "gr": "το ταξίδι",
-        "en": "the trip"
-      },
-      {
-        "gr": "ο γιατρός",
-        "en": "the doctor"
-      },
-      {
-        "gr": "το δωμάτιο",
-        "en": "the room"
-      },
-      {
-        "gr": "το όνειρο",
-        "en": "the dream"
-      },
-      {
-        "gr": "η είσοδος",
-        "en": "the entrance"
-      },
-      {
-        "gr": "ο όροφος",
-        "en": "the floor"
-      },
-      {
-        "gr": "το πιάτο",
-        "en": "the plate"
+        "gr": "το επάγγελμα",
+        "en": "profession"
       },
       {
         "gr": "το μολύβι",
