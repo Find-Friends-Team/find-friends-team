@@ -2407,6 +2407,8 @@
       "name": "Special — Present Sticker (Gold)",
       "color": "yellow",
       "isSeasonal": true,
+      "seasonStart": "2024-06-28",
+      "seasonEnd": "2024-07-01",
       "pikmins": [
         {
           "id": 1,
