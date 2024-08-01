@@ -2655,8 +2655,46 @@
       "name": "Special — Ice Cream",
       "color": "pink",
       "isSeasonal": true,
-      "seasonStart": "2023-09-10",
-      "seasonEnd": "2023-10-05",
+      "seasonStart": "2024-08-01",
+      "seasonEnd": "2024-09-05",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Ice Cream: 2024 Flavor",
+      "color": "white",
+      "isSeasonal": true,
+      "seasonStart": "2024-08-01",
+      "seasonEnd": "2024-09-05",
       "pikmins": [
         {
           "id": 1,
