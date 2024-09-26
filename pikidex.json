@@ -329,6 +329,42 @@
     },
     {
       "icon": "water_outlined",
+      "color": "yellow",
+      "name": "Waterside — Fishing Lure (Rare)",
+      "availableFrom": "2024-09-26",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "water_outlined",
       "name": "Waterside",
       "pikmins": [
         {
@@ -741,6 +777,78 @@
     {
       "icon": "bakery_dining_outlined",
       "name": "Bakery",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "bakery_dining_outlined",
+      "name": "Bakery — Baguette (Rare)",
+      "color": "yellow",
+      "availableFrom": "2024-09-26",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "content_cut_outlined",
+      "name": "Hair Salon — Scissors (Rare)",
+      "color": "yellow",
+      "availableFrom": "2024-09-26",
       "pikmins": [
         {
           "id": 1,
