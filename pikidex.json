@@ -3,6 +3,9 @@
     {
       "icon": "restaurant",
       "name": "Restaurant",
+      "osmTags": [
+        "amenity=restaurant"
+      ],
       "pikmins": [
         {
           "id": 1,
@@ -38,6 +41,9 @@
       "icon": "restaurant",
       "name": "Restaurant — Chef Hat Rare",
       "color": "yellow",
+      "osmTags": [
+        "amenity=restaurant"
+      ],
       "pikmins": [
         {
           "id": 1,
@@ -56,6 +62,10 @@
     {
       "icon": "local_cafe_outlined",
       "name": "Cafe",
+      "osmTags": [
+        "amenity=cafe",
+        "cuisine=coffee_shop"
+      ],
       "pikmins": [
         {
           "id": 1,
@@ -2218,7 +2228,8 @@
           "color": "purple"
         }
       ]
-    },    {
+    },
+    {
       "icon": "local_florist",
       "name": "Special — Flower Card 2024²",
       "color": "grey",
