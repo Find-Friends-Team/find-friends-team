@@ -2018,6 +2018,25 @@
       ]
     },
     {
+      "icon": "school",
+      "name": "University & College – College Crest Patch",
+      "availableFrom": "2024-11-19",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        }
+      ]
+    },
+    {
       "icon": "question_mark_outlined",
       "name": "Special",
       "pikmins": [
