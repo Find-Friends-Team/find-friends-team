@@ -3054,10 +3054,6 @@
       "seasonEnd": "2024-09-07",
       "pikmins": [
         {
-          "id": 1,
-          "color": "green"
-        },
-        {
           "id": 2,
           "color": "yellow"
         },
