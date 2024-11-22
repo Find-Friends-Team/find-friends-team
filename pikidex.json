@@ -2021,6 +2021,10 @@
       "icon": "school",
       "name": "University & College – College Crest Patch",
       "availableFrom": "2024-11-19",
+      "osmTags": [
+        "amenity=university",
+        "building=university"
+      ],
       "pikmins": [
         {
           "id": 1,
@@ -3049,6 +3053,10 @@
       "seasonStart": "2024-08-12",
       "seasonEnd": "2024-09-07",
       "pikmins": [
+        {
+          "id": 1,
+          "color": "green"
+        },
         {
           "id": 2,
           "color": "yellow"
