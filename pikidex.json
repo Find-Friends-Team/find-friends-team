@@ -2626,8 +2626,8 @@
       "icon": "question_mark_outlined",
       "name": "Special — Mitten",
       "isSeasonal": true,
-      "seasonStart": "2023-12-06",
-      "seasonEnd": "2023-12-31",
+      "seasonStart": "2024-12-01",
+      "seasonEnd": "2025-01-07",
       "pikmins": [
         {
           "id": 1,
@@ -3388,8 +3388,8 @@
       "name": "Special — Winter Sticker",
       "color": "white",
       "isSeasonal": true,
-      "seasonStart": "2023-12-06",
-      "seasonEnd": "2023-12-31",
+      "seasonStart": "2024-12-01",
+      "seasonEnd": "2025-01-07",
       "pikmins": [
         {
           "id": 1,
