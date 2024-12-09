@@ -629,6 +629,18 @@
       ]
     },
     {
+      "icon": "directions_transit",
+      "name": "Station — Ticket (Gold)",
+      "color": "yellow",
+      "isRegional": true,
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        }
+      ]
+    },
+    {
       "icon": "beach_access",
       "name": "Beach",
       "osmTags": [
