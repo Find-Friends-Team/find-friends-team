@@ -2292,8 +2292,8 @@
       "name": "Special — Red Flower Card",
       "color": "red",
       "isSeasonal": true,
-      "seasonStart": "2023-09-22",
-      "seasonEnd": "2023-10-07",
+      "seasonStart": "2025-01-01",
+      "seasonEnd": "2025-02-07",
       "pikmins": [
         {
           "id": 1,
@@ -2326,8 +2326,8 @@
       "name": "Special — Yellow Flower Card",
       "color": "yellow",
       "isSeasonal": true,
-      "seasonStart": "2023-11-13",
-      "seasonEnd": "2023-11-21",
+      "seasonStart": "2025-01-01",
+      "seasonEnd": "2025-02-07",
       "pikmins": [
         {
           "id": 1,
@@ -2360,8 +2360,8 @@
       "name": "Special — Blue Flower Card",
       "color": "blue",
       "isSeasonal": true,
-      "seasonStart": "2023-11-13",
-      "seasonEnd": "2023-11-21",
+      "seasonStart": "2025-01-01",
+      "seasonEnd": "2025-02-07",
       "pikmins": [
         {
           "id": 1,
@@ -2394,8 +2394,8 @@
       "name": "Special — Purple Flower Card",
       "color": "purple",
       "isSeasonal": true,
-      "seasonStart": "2023-09-22",
-      "seasonEnd": "2023-10-07",
+      "seasonStart": "2025-01-01",
+      "seasonEnd": "2025-02-07",
       "pikmins": [
         {
           "id": 1,
@@ -2501,7 +2501,7 @@
     },
     {
       "icon": "local_florist",
-      "name": "Special — Flower Card 2025³",
+      "name": "Special — Flower Card 2024³",
       "color": "pink",
       "isSeasonal": true,
       "seasonStart": "2025-01-01",
