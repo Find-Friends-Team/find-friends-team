@@ -2428,8 +2428,8 @@
       "name": "Special — Flower Card 2024¹",
       "color": "red",
       "isSeasonal": true,
-      "seasonStart": "2024-03-01",
-      "seasonEnd": "2024-04-07",
+      "seasonStart": "2025-01-01",
+      "seasonEnd": "2025-02-07",
       "pikmins": [
         {
           "id": 1,
@@ -2457,7 +2457,7 @@
         },
         {
           "id": 7,
-          "color": "purple"
+          "color": "white"
         }
       ]
     },
@@ -2466,20 +2466,20 @@
       "name": "Special — Flower Card 2024²",
       "color": "grey",
       "isSeasonal": true,
-      "seasonStart": "2024-03-01",
-      "seasonEnd": "2024-04-07",
+      "seasonStart": "2025-01-01",
+      "seasonEnd": "2025-02-07",
       "pikmins": [
         {
           "id": 1,
-          "color": "purple"
+          "color": "white"
         },
         {
           "id": 2,
-          "color": "white"
+          "color": "purple"
         },
         {
           "id": 3,
-          "color": "white"
+          "color": "purple"
         },
         {
           "id": 4,
@@ -2491,10 +2491,28 @@
         },
         {
           "id": 6,
-          "color": "pink"
+          "color": "grey"
         },
         {
           "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "local_florist",
+      "name": "Special — Flower Card 2025³",
+      "color": "pink",
+      "isSeasonal": true,
+      "seasonStart": "2025-01-01",
+      "seasonEnd": "2025-02-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "pink"
+        },
+        {
+          "id": 2,
           "color": "pink"
         }
       ]
