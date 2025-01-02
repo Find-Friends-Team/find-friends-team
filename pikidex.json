@@ -3683,6 +3683,18 @@
     },
     {
       "icon": "question_mark_outlined",
+      "name": "Special — Rosette",
+      "color": "red",
+      "isRegional": true,
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
       "color": "blue",
       "name": "Special — 3rd Anniversary Cupcake",
       "isSeasonal": true,
