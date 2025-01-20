@@ -2106,8 +2106,8 @@
       "name": "Special — Lunar New Year: Red",
       "color": "red",
       "isSeasonal": true,
-      "seasonStart": "2024-02-01",
-      "seasonEnd": "2024-03-01",
+      "seasonStart": "2025-01-25",
+      "seasonEnd": "2025-03-07",
       "pikmins": [
         {
           "id": 1,
@@ -2144,8 +2144,8 @@
       "name": "Special — Lunar New Year: Gold",
       "color": "yellow",
       "isSeasonal": true,
-      "seasonStart": "2024-02-01",
-      "seasonEnd": "2024-03-01",
+      "seasonStart": "2025-01-25",
+      "seasonEnd": "2025-03-07",
       "pikmins": [
         {
           "id": 1,
