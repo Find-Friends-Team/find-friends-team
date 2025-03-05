@@ -2861,8 +2861,8 @@
       "name": "Special — Reverse Valentine’s Day Sticker",
       "color": "blue",
       "isSeasonal": true,
-      "seasonStart": "2024-03-11",
-      "seasonEnd": "2024-03-30",
+      "seasonStart": "2025-03-8",
+      "seasonEnd": "2025-04-07",
       "pikmins": [
         {
           "id": 1,
@@ -2875,6 +2875,22 @@
         {
           "id": 3,
           "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
         }
       ]
     },
