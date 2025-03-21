@@ -2108,6 +2108,45 @@
       ]
     },
     {
+      "icon": "laundry",
+      "name": "Laundromats – Laundry Item",
+      "availableFrom": "2025-03-20",
+      "osmTags": [
+        "shop=laundry",
+        "shop=dry_cleaning"
+      ],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
       "icon": "question_mark_outlined",
       "name": "Special",
       "pikmins": [
