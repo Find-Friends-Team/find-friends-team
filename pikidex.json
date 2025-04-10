@@ -2939,8 +2939,8 @@
       "color": "yellow",
       "isRegional": true,
       "isSeasonal": true,
-      "seasonStart": "2024-12-14",
-      "seasonEnd": "2025-02-07",
+      "seasonStart": "2025-04-18",
+      "seasonEnd": "2025-04-22",
       "pikmins": [
         {
           "id": 1,
