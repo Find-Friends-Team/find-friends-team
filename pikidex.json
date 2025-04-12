@@ -1568,6 +1568,46 @@
       ]
     },
     {
+      "icon": "local_pizza",
+      "name": "Italian Restaurant — Pasta",
+      "color": "white",
+      "osmTags": [
+        "cuisine=italian",
+        "cuisine=pasta",
+        "cuisine=pizza"
+      ],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
       "icon": "ramen_dining",
       "name": "Ramen Restaurant — Ramen Keychain",
       "osmTags": [
