@@ -2114,7 +2114,8 @@
       "name": "Mexican Restaurant – Taco",
       "availableFrom": "2024-12-16",
       "osmTags": [
-        "cuisine=mexican"
+        "cuisine=mexican",
+        "cuisine='tex-mex'"
       ],
       "pikmins": [
         {
@@ -2183,6 +2184,21 @@
         {
           "id": 7,
           "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "restaurant",
+      "color": "purple",
+      "name": "Korean Restaurant – Kimchi",
+      "availableFrom": "2024-12-16",
+      "osmTags": [
+        "cuisine=korean"
+      ],
+      "pikmins": [
+        {
+          "id": 5,
+          "color": "purple"
         }
       ]
     },
