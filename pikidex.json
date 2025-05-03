@@ -3673,7 +3673,7 @@
     {
       "icon": "question_mark_outlined",
       "name": "Special — Playing Card (blue)",
-      "color": "yellow",
+      "color": "blue",
       "isSeasonal": true,
       "seasonStart": "2025-05-01",
       "seasonEnd": "2025-06-07",
