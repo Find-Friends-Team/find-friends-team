@@ -3620,11 +3620,11 @@
     },
     {
       "icon": "question_mark_outlined",
-      "name": "Special — Playing Card of Diamonds¹",
+      "name": "Special — Playing Card (red)",
       "color": "red",
       "isSeasonal": true,
-      "seasonStart": "2024-05-01",
-      "seasonEnd": "2024-06-07",
+      "seasonStart": "2025-05-01",
+      "seasonEnd": "2025-06-07",
       "pikmins": [
         {
           "id": 1,
@@ -3632,41 +3632,29 @@
         },
         {
           "id": 2,
-          "color": "yellow"
+          "color": "red"
         },
         {
           "id": 3,
-          "color": "blue"
+          "color": "red"
         },
         {
           "id": 4,
-          "color": "white"
-        },
-        {
-          "id": 5,
-          "color": "purple"
-        },
-        {
-          "id": 6,
-          "color": "grey"
-        },
-        {
-          "id": 7,
-          "color": "pink"
+          "color": "red"
         }
       ]
     },
     {
       "icon": "question_mark_outlined",
-      "name": "Special — Playing Card of Diamonds²",
-      "color": "red",
+      "name": "Special — Playing Card (yellow)",
+      "color": "yellow",
       "isSeasonal": true,
-      "seasonStart": "2024-05-01",
-      "seasonEnd": "2024-06-07",
+      "seasonStart": "2025-05-01",
+      "seasonEnd": "2025-06-07",
       "pikmins": [
         {
           "id": 1,
-          "color": "red"
+          "color": "yellow"
         },
         {
           "id": 2,
@@ -3674,22 +3662,134 @@
         },
         {
           "id": 3,
+          "color": "yellow"
+        },
+        {
+          "id": 4,
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Playing Card (blue)",
+      "color": "yellow",
+      "isSeasonal": true,
+      "seasonStart": "2025-05-01",
+      "seasonEnd": "2025-06-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "blue"
+        },
+        {
+          "id": 2,
+          "color": "blue"
+        },
+        {
+          "id": 3,
           "color": "blue"
         },
         {
           "id": 4,
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Playing Card (white)",
+      "color": "white",
+      "isSeasonal": true,
+      "seasonStart": "2025-05-01",
+      "seasonEnd": "2025-06-07",
+      "pikmins": [
+        {
+          "id": 1,
           "color": "white"
         },
         {
-          "id": 5,
+          "id": 2,
+          "color": "white"
+        },
+        {
+          "id": 3,
+          "color": "white"
+        }
+      ]
+    },    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Playing Card (purple)",
+      "color": "purple",
+      "isSeasonal": true,
+      "seasonStart": "2025-05-01",
+      "seasonEnd": "2025-06-07",
+      "pikmins": [
+        {
+          "id": 1,
           "color": "purple"
         },
         {
-          "id": 6,
+          "id": 2,
+          "color": "purple"
+        },
+        {
+          "id": 3,
+          "color": "purple"
+        },
+        {
+          "id": 4,
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Playing Card (grey)",
+      "color": "grey",
+      "isSeasonal": true,
+      "seasonStart": "2025-05-01",
+      "seasonEnd": "2025-06-07",
+      "pikmins": [
+        {
+          "id": 1,
           "color": "grey"
         },
         {
-          "id": 7,
+          "id": 2,
+          "color": "grey"
+        },
+        {
+          "id": 3,
+          "color": "grey"
+        },
+        {
+          "id": 4,
+          "color": "grey"
+        }
+      ]
+    },    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Playing Card (pink)",
+      "color": "pink",
+      "isSeasonal": true,
+      "seasonStart": "2025-05-01",
+      "seasonEnd": "2025-06-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "pink"
+        },
+        {
+          "id": 2,
+          "color": "pink"
+        },
+        {
+          "id": 3,
+          "color": "pink"
+        },
+        {
+          "id": 4,
           "color": "pink"
         }
       ]
