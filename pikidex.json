@@ -1783,8 +1783,6 @@
       "name": "Shrines and Temples — Fortune (Very Lucky)",
       "availableFrom": "2023-10-03",
       "isRegional": true,
-      "seasonStart": "2025-05-24",
-      "seasonEnd": "2025-06-09",
       "color": "purple",
       "osmTags": [
         "religion=shinto",
@@ -1825,8 +1823,6 @@
       "icon": "temple",
       "name": "Shrines and Temples — Fortune (Lucky)",
       "availableFrom": "2023-10-03",
-      "seasonStart": "2025-05-24",
-      "seasonEnd": "2025-06-09",
       "isRegional": true,
       "color": "blue",
       "pikmins": [
@@ -1865,8 +1861,6 @@
       "name": "Shrines and Temples — Fortune (Pretty Lucky)",
       "availableFrom": "2023-10-03",
       "isRegional": true,
-      "seasonStart": "2025-05-24",
-      "seasonEnd": "2025-06-09",
       "color": "red",
       "pikmins": [
         {
@@ -1904,8 +1898,6 @@
       "name": "Shrines and Temples — Fortune (A Little Lucky)",
       "availableFrom": "2023-10-03",
       "isRegional": true,
-      "seasonStart": "2025-05-24",
-      "seasonEnd": "2025-06-09",
       "pikmins": [
         {
           "id": 1,
@@ -1942,8 +1934,6 @@
       "name": "Shrines and Temples — Fortune (Future Luck)",
       "availableFrom": "2023-10-03",
       "isRegional": true,
-      "seasonStart": "2025-05-24",
-      "seasonEnd": "2025-06-09",
       "color": "white",
       "pikmins": [
         {
