@@ -3733,7 +3733,8 @@
           "color": "white"
         }
       ]
-    },    {
+    },
+    {
       "icon": "question_mark_outlined",
       "name": "Special — Playing Card (purple)",
       "color": "purple",
@@ -3784,7 +3785,8 @@
           "color": "grey"
         }
       ]
-    },    {
+    },
+    {
       "icon": "question_mark_outlined",
       "name": "Special — Playing Card (pink)",
       "color": "pink",
@@ -4169,6 +4171,44 @@
       "seasonStart": "2025-05-01",
       "seasonEnd": "2025-06-07",
       "color": "grey",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Tiny Instrument",
+      "isSeasonal": true,
+      "color": "yellow",
+      "seasonStart": "2025-06-01",
+      "seasonEnd": "2025-07-07",
       "pikmins": [
         {
           "id": 1,
