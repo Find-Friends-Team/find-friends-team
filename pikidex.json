@@ -3068,6 +3068,10 @@
         {
           "id": 4,
           "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
         }
       ]
     },
