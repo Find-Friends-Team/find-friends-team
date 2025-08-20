@@ -3050,8 +3050,8 @@
       "color": "yellow",
       "isRegional": true,
       "isSeasonal": true,
-      "seasonStart": "2025-05-24",
-      "seasonEnd": "2025-06-09",
+      "seasonStart": "2025-08-20",
+      "seasonEnd": "2025-08-25",
       "pikmins": [
         {
           "id": 1,
@@ -4249,8 +4249,8 @@
       "icon": "question_mark_outlined",
       "name": "Special — Nintendo Consoles '80–'90",
       "isSeasonal": true,
-      "seasonStart": "2025-05-01",
-      "seasonEnd": "2025-06-07",
+      "seasonStart": "2025-08-20",
+      "seasonEnd": "2025-08-25",
       "color": "grey",
       "pikmins": [
         {
