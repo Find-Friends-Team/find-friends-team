@@ -3230,8 +3230,8 @@
       "name": "Special — Mahjong Tile 1",
       "color": "white",
       "isSeasonal": true,
-      "seasonStart": "2024-08-12",
-      "seasonEnd": "2024-09-07",
+      "seasonStart": "2025-09-01",
+      "seasonEnd": "2025-10-07",
       "pikmins": [
         {
           "id": 1,
@@ -3268,8 +3268,8 @@
       "name": "Special — Mahjong Tile 2",
       "color": "white",
       "isSeasonal": true,
-      "seasonStart": "2024-08-12",
-      "seasonEnd": "2024-09-07",
+      "seasonStart": "2025-09-01",
+      "seasonEnd": "2025-10-07",
       "pikmins": [
         {
           "id": 1,
@@ -3306,8 +3306,8 @@
       "name": "Special — Mahjong Tile 3",
       "color": "white",
       "isSeasonal": true,
-      "seasonStart": "2024-08-12",
-      "seasonEnd": "2024-09-07",
+      "seasonStart": "2025-09-01",
+      "seasonEnd": "2025-10-07",
       "pikmins": [
         {
           "id": 2,
