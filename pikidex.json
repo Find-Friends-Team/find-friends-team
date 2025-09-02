@@ -3227,8 +3227,8 @@
     },
     {
       "icon": "question_mark_outlined",
-      "name": "Special — Mahjong Tile 1",
-      "color": "white",
+      "name": "Special — Mahjong Tile (red)",
+      "color": "red",
       "isSeasonal": true,
       "seasonStart": "2025-09-01",
       "seasonEnd": "2025-10-07",
@@ -3239,7 +3239,51 @@
         },
         {
           "id": 2,
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Mahjong Tile (yellow)",
+      "color": "yellow",
+      "isSeasonal": true,
+      "seasonStart": "2025-09-01",
+      "seasonEnd": "2025-10-07",
+      "pikmins": [
+        {
+          "id": 1,
           "color": "yellow"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "yellow"
+        },
+        {
+          "id": 4,
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Mahjong Tile (blue)",
+      "color": "blue",
+      "isSeasonal": true,
+      "seasonStart": "2025-09-01",
+      "seasonEnd": "2025-10-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "blue"
+        },
+        {
+          "id": 2,
+          "color": "blue"
         },
         {
           "id": 3,
@@ -3247,25 +3291,13 @@
         },
         {
           "id": 4,
-          "color": "white"
-        },
-        {
-          "id": 5,
-          "color": "purple"
-        },
-        {
-          "id": 6,
-          "color": "grey"
-        },
-        {
-          "id": 7,
-          "color": "pink"
+          "color": "blue"
         }
       ]
     },
     {
       "icon": "question_mark_outlined",
-      "name": "Special — Mahjong Tile 2",
+      "name": "Special — Mahjong Tile (white)",
       "color": "white",
       "isSeasonal": true,
       "seasonStart": "2025-09-01",
@@ -3273,15 +3305,15 @@
       "pikmins": [
         {
           "id": 1,
-          "color": "red"
+          "color": "white"
         },
         {
           "id": 2,
-          "color": "yellow"
+          "color": "white"
         },
         {
           "id": 3,
-          "color": "blue"
+          "color": "white"
         },
         {
           "id": 4,
@@ -3289,48 +3321,84 @@
         },
         {
           "id": 5,
-          "color": "purple"
-        },
-        {
-          "id": 6,
-          "color": "grey"
-        },
-        {
-          "id": 7,
-          "color": "pink"
+          "color": "white"
         }
       ]
     },
     {
       "icon": "question_mark_outlined",
-      "name": "Special — Mahjong Tile 3",
-      "color": "white",
+      "name": "Special — Mahjong Tile (purple)",
+      "color": "purple",
       "isSeasonal": true,
       "seasonStart": "2025-09-01",
       "seasonEnd": "2025-10-07",
       "pikmins": [
         {
-          "id": 2,
-          "color": "yellow"
-        },
-        {
-          "id": 3,
-          "color": "blue"
-        },
-        {
-          "id": 4,
-          "color": "white"
-        },
-        {
-          "id": 5,
+          "id": 1,
           "color": "purple"
         },
         {
-          "id": 6,
+          "id": 2,
+          "color": "purple"
+        },
+        {
+          "id": 3,
+          "color": "purple"
+        },
+        {
+          "id": 4,
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Mahjong Tile (grey)",
+      "color": "grey",
+      "isSeasonal": true,
+      "seasonStart": "2025-09-01",
+      "seasonEnd": "2025-10-07",
+      "pikmins": [
+        {
+          "id": 1,
           "color": "grey"
         },
         {
-          "id": 7,
+          "id": 2,
+          "color": "grey"
+        },
+        {
+          "id": 3,
+          "color": "grey"
+        },
+        {
+          "id": 4,
+          "color": "grey"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Mahjong Tile (pink)",
+      "color": "pink",
+      "isSeasonal": true,
+      "seasonStart": "2025-09-01",
+      "seasonEnd": "2025-10-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "pink"
+        },
+        {
+          "id": 2,
+          "color": "pink"
+        },
+        {
+          "id": 3,
+          "color": "pink"
+        },
+        {
+          "id": 4,
           "color": "pink"
         }
       ]
