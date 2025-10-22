@@ -3,9 +3,7 @@
     {
       "icon": "restaurant",
       "name": "Restaurant",
-      "osmTags": [
-        "amenity=restaurant"
-      ],
+      "osmTags": ["amenity=restaurant"],
       "pikmins": [
         {
           "id": 1,
@@ -41,9 +39,7 @@
       "icon": "restaurant",
       "name": "Restaurant — Chef Hat Rare",
       "color": "yellow",
-      "osmTags": [
-        "amenity=restaurant"
-      ],
+      "osmTags": ["amenity=restaurant"],
       "pikmins": [
         {
           "id": 1,
@@ -78,10 +74,7 @@
     {
       "icon": "local_cafe_outlined",
       "name": "Cafe",
-      "osmTags": [
-        "amenity=cafe",
-        "cuisine=coffee_shop"
-      ],
+      "osmTags": ["amenity=cafe", "cuisine=coffee_shop"],
       "pikmins": [
         {
           "id": 1,
@@ -117,10 +110,7 @@
       "icon": "local_cafe_outlined",
       "name": "Café — Coffee Cup (Rare)",
       "color": "yellow",
-      "osmTags": [
-        "amenity=cafe",
-        "cuisine=coffee_shop"
-      ],
+      "osmTags": ["amenity=cafe", "cuisine=coffee_shop"],
       "pikmins": [
         {
           "id": 1,
@@ -155,10 +145,7 @@
     {
       "icon": "cake_outlined",
       "name": "Sweetshop",
-      "osmTags": [
-        "shop=confectionery",
-        "shop=pastry"
-      ],
+      "osmTags": ["shop=confectionery", "shop=pastry"],
       "pikmins": [
         {
           "id": 1,
@@ -194,10 +181,7 @@
       "icon": "cake_outlined",
       "color": "pink",
       "name": "Sweetshop — Donut",
-      "osmTags": [
-        "shop=confectionery",
-        "shop=pastry"
-      ],
+      "osmTags": ["shop=confectionery", "shop=pastry"],
       "pikmins": [
         {
           "id": 1,
@@ -232,9 +216,7 @@
     {
       "icon": "theaters_rounded",
       "name": "Movie Theater",
-      "osmTags": [
-        "amenity=cinema"
-      ],
+      "osmTags": ["amenity=cinema"],
       "pikmins": [
         {
           "id": 1,
@@ -269,9 +251,7 @@
     {
       "icon": "medication_outlined",
       "name": "Pharmacy",
-      "osmTags": [
-        "amenity=pharmacy"
-      ],
+      "osmTags": ["amenity=pharmacy"],
       "pikmins": [
         {
           "id": 1,
@@ -306,9 +286,7 @@
     {
       "icon": "pets_outlined",
       "name": "Zoo",
-      "osmTags": [
-        "tourism=zoo"
-      ],
+      "osmTags": ["tourism=zoo"],
       "pikmins": [
         {
           "id": 1,
@@ -344,10 +322,7 @@
       "icon": "forest_outlined",
       "name": "Forest — Stag beetle",
       "color": "grey",
-      "osmTags": [
-        "landuse=forest",
-        "natural=wood"
-      ],
+      "osmTags": ["landuse=forest", "natural=wood"],
       "pikmins": [
         {
           "id": 1,
@@ -382,10 +357,7 @@
     {
       "icon": "forest_outlined",
       "name": "Forest — Acorn suit",
-      "osmTags": [
-        "landuse=forest",
-        "natural=wood"
-      ],
+      "osmTags": ["landuse=forest", "natural=wood"],
       "pikmins": [
         {
           "id": 1,
@@ -422,9 +394,7 @@
       "color": "yellow",
       "name": "Waterside — Fishing Lure (Rare)",
       "availableFrom": "2024-09-26",
-      "osmTags": [
-        "natural=water"
-      ],
+      "osmTags": ["natural=water"],
       "pikmins": [
         {
           "id": 1,
@@ -459,9 +429,7 @@
     {
       "icon": "water_outlined",
       "name": "Waterside",
-      "osmTags": [
-        "natural=water"
-      ],
+      "osmTags": ["natural=water"],
       "pikmins": [
         {
           "id": 1,
@@ -496,9 +464,7 @@
     {
       "icon": "local_post_office",
       "name": "Post Office",
-      "osmTags": [
-        "amenity=post_office"
-      ],
+      "osmTags": ["amenity=post_office"],
       "pikmins": [
         {
           "id": 1,
@@ -533,10 +499,7 @@
     {
       "icon": "museum_outlined",
       "name": "Art Gallery",
-      "osmTags": [
-        "shop=art",
-        "tourism=museum"
-      ],
+      "osmTags": ["shop=art", "tourism=museum"],
       "pikmins": [
         {
           "id": 1,
@@ -571,10 +534,7 @@
     {
       "icon": "flight_outlined",
       "name": "Airport",
-      "osmTags": [
-        "aeroway=aerodrome",
-        "aeroway=heliport"
-      ],
+      "osmTags": ["aeroway=aerodrome", "aeroway=heliport"],
       "pikmins": [
         {
           "id": 1,
@@ -609,10 +569,7 @@
     {
       "icon": "directions_transit",
       "name": "Station",
-      "osmTags": [
-        "building=train_station",
-        "railway=station"
-      ],
+      "osmTags": ["building=train_station", "railway=station"],
       "pikmins": [
         {
           "id": 1,
@@ -648,10 +605,7 @@
       "icon": "directions_transit",
       "name": "Station — Ticket",
       "color": "white",
-      "osmTags": [
-        "building=train_station",
-        "railway=station"
-      ],
+      "osmTags": ["building=train_station", "railway=station"],
       "pikmins": [
         {
           "id": 1,
@@ -698,9 +652,7 @@
     {
       "icon": "beach_access",
       "name": "Beach",
-      "osmTags": [
-        "natural=beach"
-      ],
+      "osmTags": ["natural=beach"],
       "pikmins": [
         {
           "id": 1,
@@ -735,10 +687,7 @@
     {
       "icon": "lunch_dining_outlined",
       "name": "Hamburger Shop",
-      "osmTags": [
-        "amenity=fast_food",
-        "cuisine=burger"
-      ],
+      "osmTags": ["amenity=fast_food", "cuisine=burger"],
       "pikmins": [
         {
           "id": 1,
@@ -774,9 +723,7 @@
       "icon": "store_outlined",
       "name": "Mini-mart",
       "color": "blue",
-      "osmTags": [
-        "shop=convenience"
-      ],
+      "osmTags": ["shop=convenience"],
       "pikmins": [
         {
           "id": 1,
@@ -811,9 +758,7 @@
     {
       "icon": "store_outlined",
       "name": "Mini-mart — Snack",
-      "osmTags": [
-        "shop=convenience"
-      ],
+      "osmTags": ["shop=convenience"],
       "pikmins": [
         {
           "id": 1,
@@ -850,9 +795,7 @@
       "name": "Supermarket — Banana (Rare)",
       "availableFrom": "2025-06-13",
       "color": "yellow",
-      "osmTags": [
-        "shop=supermarket"
-      ],
+      "osmTags": ["shop=supermarket"],
       "pikmins": [
         {
           "id": 1,
@@ -887,9 +830,7 @@
     {
       "icon": "local_grocery_store_outlined",
       "name": "Supermarket — Mushroom",
-      "osmTags": [
-        "shop=supermarket"
-      ],
+      "osmTags": ["shop=supermarket"],
       "pikmins": [
         {
           "id": 1,
@@ -925,9 +866,7 @@
       "icon": "local_grocery_store_outlined",
       "name": "Supermarket — Banana",
       "color": "yellow",
-      "osmTags": [
-        "shop=supermarket"
-      ],
+      "osmTags": ["shop=supermarket"],
       "pikmins": [
         {
           "id": 1,
@@ -962,10 +901,7 @@
     {
       "icon": "bakery_dining_outlined",
       "name": "Bakery",
-      "osmTags": [
-        "cuisine=pretzel",
-        "shop=bakery"
-      ],
+      "osmTags": ["cuisine=pretzel", "shop=bakery"],
       "pikmins": [
         {
           "id": 1,
@@ -1002,10 +938,7 @@
       "name": "Bakery — Baguette (Rare)",
       "color": "yellow",
       "availableFrom": "2024-09-26",
-      "osmTags": [
-        "cuisine=pretzel",
-        "shop=bakery"
-      ],
+      "osmTags": ["cuisine=pretzel", "shop=bakery"],
       "pikmins": [
         {
           "id": 1,
@@ -1042,9 +975,7 @@
       "name": "Hair Salon — Scissors (Rare)",
       "color": "yellow",
       "availableFrom": "2024-09-26",
-      "osmTags": [
-        "shop=hairdresser"
-      ],
+      "osmTags": ["shop=hairdresser"],
       "pikmins": [
         {
           "id": 1,
@@ -1079,9 +1010,7 @@
     {
       "icon": "content_cut_outlined",
       "name": "Hair Salon",
-      "osmTags": [
-        "shop=hairdresser"
-      ],
+      "osmTags": ["shop=hairdresser"],
       "pikmins": [
         {
           "id": 1,
@@ -1116,10 +1045,7 @@
     {
       "icon": "checkroom_outlined",
       "name": "Cloting Store",
-      "osmTags": [
-        "shop=clothes",
-        "shop=shoes"
-      ],
+      "osmTags": ["shop=clothes", "shop=shoes"],
       "pikmins": [
         {
           "id": 1,
@@ -1154,9 +1080,7 @@
     {
       "icon": "chair_outlined",
       "name": "Park",
-      "osmTags": [
-        "leisure=park"
-      ],
+      "osmTags": ["leisure=park"],
       "pikmins": [
         {
           "id": 1,
@@ -1226,9 +1150,7 @@
     {
       "icon": "import_contacts_outlined",
       "name": "Library — Tiny Book",
-      "osmTags": [
-        "amenity=library"
-      ],
+      "osmTags": ["amenity=library"],
       "pikmins": [
         {
           "id": 1,
@@ -1403,9 +1325,7 @@
     {
       "icon": "set_meal_outlined",
       "name": "Sushi Restaurant",
-      "osmTags": [
-        "cuisine=sushi"
-      ],
+      "osmTags": ["cuisine=sushi"],
       "pikmins": [
         {
           "id": 1,
@@ -1440,9 +1360,7 @@
     {
       "icon": "landscape",
       "name": "Mountain — Pin Badge",
-      "osmTags": [
-        "natural=peak"
-      ],
+      "osmTags": ["natural=peak"],
       "pikmins": [
         {
           "id": 1,
@@ -1477,9 +1395,7 @@
     {
       "icon": "stadium",
       "name": "Stadium — Ball Keychain",
-      "osmTags": [
-        "leisure=stadium"
-      ],
+      "osmTags": ["leisure=stadium"],
       "pikmins": [
         {
           "id": 1,
@@ -1546,9 +1462,7 @@
     {
       "icon": "attractions",
       "name": "Theme Park — Ferris Wheel",
-      "osmTags": [
-        "tourism=theme_park"
-      ],
+      "osmTags": ["tourism=theme_park"],
       "pikmins": [
         {
           "id": 1,
@@ -1567,9 +1481,7 @@
     {
       "icon": "sailing",
       "name": "Theme Park — Pirate Ship",
-      "osmTags": [
-        "tourism=theme_park"
-      ],
+      "osmTags": ["tourism=theme_park"],
       "pikmins": [
         {
           "id": 1,
@@ -1588,9 +1500,7 @@
     {
       "icon": "airport_shuttle",
       "name": "Bus Stop — Bus Papercraft",
-      "osmTags": [
-        "highway=bus_stop"
-      ],
+      "osmTags": ["highway=bus_stop"],
       "pikmins": [
         {
           "id": 1,
@@ -1625,11 +1535,7 @@
     {
       "icon": "local_pizza",
       "name": "Italian Restaurant — Pizza",
-      "osmTags": [
-        "cuisine=italian",
-        "cuisine=pasta",
-        "cuisine=pizza"
-      ],
+      "osmTags": ["cuisine=italian", "cuisine=pasta", "cuisine=pizza"],
       "pikmins": [
         {
           "id": 1,
@@ -1665,11 +1571,7 @@
       "icon": "local_pizza",
       "name": "Italian Restaurant — Pasta",
       "color": "white",
-      "osmTags": [
-        "cuisine=italian",
-        "cuisine=pasta",
-        "cuisine=pizza"
-      ],
+      "osmTags": ["cuisine=italian", "cuisine=pasta", "cuisine=pizza"],
       "pikmins": [
         {
           "id": 1,
@@ -1745,10 +1647,7 @@
     {
       "icon": "badge",
       "name": "Bridge — Bridge Badge",
-      "osmTags": [
-        "bridge=viaduct",
-        "bridge=yes"
-      ],
+      "osmTags": ["bridge=viaduct", "bridge=yes"],
       "pikmins": [
         {
           "id": 1,
@@ -1783,9 +1682,7 @@
     {
       "icon": "hotel",
       "name": "Hotel — Hotel Amenities",
-      "osmTags": [
-        "tourism=hotel"
-      ],
+      "osmTags": ["tourism=hotel"],
       "pikmins": [
         {
           "id": 1,
@@ -1862,10 +1759,7 @@
       "availableFrom": "2023-10-03",
       "isRegional": true,
       "color": "purple",
-      "osmTags": [
-        "religion=shinto",
-        "religion=buddhist"
-      ],
+      "osmTags": ["religion=shinto", "religion=buddhist"],
       "pikmins": [
         {
           "id": 1,
@@ -2048,11 +1942,7 @@
       "icon": "battery",
       "name": "Appliances Store — Battery",
       "availableFrom": "2023-11-16",
-      "osmTags": [
-        "shop=appliance",
-        "shop=computer",
-        "shop=electronics"
-      ],
+      "osmTags": ["shop=appliance", "shop=computer", "shop=electronics"],
       "pikmins": [
         {
           "id": 1,
@@ -2083,11 +1973,7 @@
     {
       "icon": "battery",
       "name": "Appliances Store — Fairy Lights",
-      "osmTags": [
-        "shop=appliance",
-        "shop=computer",
-        "shop=electronics"
-      ],
+      "osmTags": ["shop=appliance", "shop=computer", "shop=electronics"],
       "pikmins": [
         {
           "id": 1,
@@ -2104,11 +1990,7 @@
       "name": "Curry Restaurant – Curry Bowl",
       "color": "yellow",
       "availableFrom": "2024-03-28",
-      "osmTags": [
-        "cuisine=curry",
-        "cuisine=indian",
-        "cuisine=nepalese"
-      ],
+      "osmTags": ["cuisine=curry", "cuisine=indian", "cuisine=nepalese"],
       "pikmins": [
         {
           "id": 1,
@@ -2144,10 +2026,7 @@
       "icon": "build",
       "name": "Hardware Store – Tool",
       "availableFrom": "2024-09-12",
-      "osmTags": [
-        "shop=doityourself",
-        "shop=hardware"
-      ],
+      "osmTags": ["shop=doityourself", "shop=hardware"],
       "pikmins": [
         {
           "id": 1,
@@ -2183,10 +2062,7 @@
       "icon": "school",
       "name": "University & College – College Crest Patch",
       "availableFrom": "2024-11-19",
-      "osmTags": [
-        "amenity=university",
-        "building=university"
-      ],
+      "osmTags": ["amenity=university", "building=university"],
       "pikmins": [
         {
           "id": 1,
@@ -2207,10 +2083,7 @@
       "color": "red",
       "name": "Mexican Restaurant – Taco",
       "availableFrom": "2024-12-16",
-      "osmTags": [
-        "cuisine=mexican",
-        "cuisine='tex-mex'"
-      ],
+      "osmTags": ["cuisine=mexican", "cuisine='tex-mex'"],
       "pikmins": [
         {
           "id": 1,
@@ -2246,10 +2119,7 @@
       "icon": "laundry",
       "name": "Laundromats – Laundry Item",
       "availableFrom": "2025-03-20",
-      "osmTags": [
-        "shop=laundry",
-        "shop=dry_cleaning"
-      ],
+      "osmTags": ["shop=laundry", "shop=dry_cleaning"],
       "pikmins": [
         {
           "id": 1,
@@ -2286,9 +2156,7 @@
       "color": "purple",
       "name": "Korean Restaurant – Kimchi",
       "availableFrom": "2024-12-16",
-      "osmTags": [
-        "cuisine=korean"
-      ],
+      "osmTags": ["cuisine=korean"],
       "pikmins": [
         {
           "id": 1,
@@ -4594,8 +4462,8 @@
       "name": "Special — Photo Button Badge",
       "color": "red",
       "isSeasonal": true,
-      "seasonStart": "2025-10-29",
-      "seasonEnd": "2025-11-07",
+      "seasonStart": "2025-10-22",
+      "seasonEnd": "2025-11-23",
       "pikmins": [
         {
           "id": 1,
