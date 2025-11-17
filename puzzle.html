@@ -1,0 +1,473 @@
+<!doctype html>
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8" />
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+        />
+        <title>Угадай слово</title>
+        <style>
+            * {
+                box-sizing: border-box;
+                -webkit-tap-highlight-color: transparent;
+            }
+
+            body {
+                margin: 0;
+                font-family:
+                    -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+                background: #111;
+                color: #f5f5f5;
+                display: flex;
+                justify-content: center;
+                align-items: stretch;
+                min-height: 100vh;
+            }
+
+            .game-root {
+                width: 100%;
+                max-width: 600px;
+                padding: 12px 10px 8px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+                gap: 8px;
+            }
+
+            .header {
+                text-align: center;
+                font-weight: 600;
+                letter-spacing: 0.08em;
+                text-transform: uppercase;
+                font-size: 20px;
+                padding-bottom: 4px;
+            }
+
+            .board-wrapper {
+                flex: 0 0 auto;
+                display: flex;
+                justify-content: center;
+            }
+
+            .board {
+                display: grid;
+                grid-template-rows: repeat(7, 1fr);
+                grid-template-columns: repeat(5, 1fr);
+                gap: 4px;
+                width: min(90vw, 460px);
+                max-height: 56vh;
+            }
+
+            .cell {
+                border: 2px solid #3a3a3c;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-size: 28px;
+                font-weight: 700;
+                text-transform: uppercase;
+                aspect-ratio: 1 / 1;
+                border-radius: 4px;
+                transition:
+                    background-color 0.15s ease,
+                    border-color 0.15s ease,
+                    transform 0.15s ease;
+            }
+
+            .cell.filled {
+                border-color: #565758;
+            }
+
+            .cell.reveal {
+                animation: flip 0.5s ease forwards;
+            }
+
+            @keyframes flip {
+                0% {
+                    transform: rotateX(0deg);
+                }
+                50% {
+                    transform: rotateX(90deg);
+                }
+                100% {
+                    transform: rotateX(0deg);
+                }
+            }
+
+            .cell.correct {
+                background-color: #6aaa64;
+                border-color: #6aaa64;
+                color: #fff;
+            }
+
+            .cell.present {
+                background-color: #c9b458;
+                border-color: #c9b458;
+                color: #fff;
+            }
+
+            .cell.absent {
+                background-color: #3a3a3c;
+                border-color: #3a3a3c;
+                color: #fff;
+            }
+
+            .keyboard {
+                flex: 0 0 auto;
+                display: flex;
+                flex-direction: column;
+                gap: 6px;
+                margin-top: 4px;
+            }
+
+            .kb-row {
+                display: flex;
+                justify-content: center;
+                gap: 4px;
+            }
+
+            .key {
+                flex: 1;
+                max-width: 36px;
+                height: 44px;
+                border-radius: 6px;
+                border: none;
+                font-size: 18px;
+                font-weight: 600;
+                text-transform: uppercase;
+                background: #818384;
+                color: #fff;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                cursor: pointer;
+                user-select: none;
+                transition:
+                    background-color 0.12s ease,
+                    transform 0.05s ease,
+                    opacity 0.1s ease;
+            }
+
+            .key.wide {
+                flex: 1.5;
+                max-width: none;
+                font-size: 14px;
+            }
+
+            .key:active {
+                transform: scale(0.95);
+            }
+
+            .key.correct {
+                background-color: #6aaa64;
+            }
+
+            .key.present {
+                background-color: #c9b458;
+            }
+
+            .key.absent {
+                background-color: #3a3a3c;
+                opacity: 0.7;
+            }
+
+            .key.disabled {
+                opacity: 0.35;
+                pointer-events: none;
+            }
+
+            .message {
+                text-align: center;
+                min-height: 20px;
+                font-size: 14px;
+                color: #e5e5e5;
+            }
+
+            .message.win {
+                color: #6aaa64;
+            }
+
+            .message.lose {
+                color: #e06c6c;
+            }
+
+            @media (max-height: 780px) {
+                .board {
+                    width: min(92vw, 420px);
+                }
+                .cell {
+                    font-size: 24px;
+                }
+                .key {
+                    height: 40px;
+                    font-size: 16px;
+                }
+                .header {
+                    font-size: 18px;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="game-root">
+            <div class="header">Угадай слово</div>
+            <div class="board-wrapper">
+                <div id="board" class="board"></div>
+            </div>
+            <div id="message" class="message"></div>
+            <div class="keyboard" id="keyboard"></div>
+        </div>
+
+        <script>
+            // Секретное слово хранится в base64
+            const SECRET_BASE64 = "0JrQntCS0IHQoA==";
+
+            function decodeBase64Unicode(str) {
+                // atob возвращает байты в псевдо-латинице, нужно восстановить UTF‑8
+                return decodeURIComponent(escape(window.atob(str)));
+            }
+
+            const RAW_SECRET = decodeBase64Unicode(SECRET_BASE64).toUpperCase();
+            const normalize = (s) => s.toUpperCase().replace(/Ё/g, "Е");
+            const SECRET = normalize(RAW_SECRET);
+            const WORD_LENGTH = 5;
+            const MAX_TRIES = 7;
+
+            const boardEl = document.getElementById("board");
+            const keyboardEl = document.getElementById("keyboard");
+            const messageEl = document.getElementById("message");
+
+            let currentRow = 0;
+            let currentCol = 0;
+            let isGameOver = false;
+            let cells = [];
+
+            const kbLayout = [
+                ["Й", "Ц", "У", "К", "Е", "Н", "Г", "Ш", "Щ", "З", "Х", "Ъ"],
+                ["Ф", "Ы", "В", "А", "П", "Р", "О", "Л", "Д", "Ж", "Э"],
+                ["ENTER", "Я", "Ч", "С", "М", "И", "Т", "Ь", "Б", "Ю", "BACK"],
+            ];
+
+            function createBoard() {
+                for (let r = 0; r < MAX_TRIES; r++) {
+                    const row = [];
+                    for (let c = 0; c < WORD_LENGTH; c++) {
+                        const cell = document.createElement("div");
+                        cell.className = "cell";
+                        boardEl.appendChild(cell);
+                        row.push(cell);
+                    }
+                    cells.push(row);
+                }
+            }
+
+            function createKeyboard() {
+                kbLayout.forEach((rowLetters) => {
+                    const row = document.createElement("div");
+                    row.className = "kb-row";
+                    rowLetters.forEach((letter) => {
+                        const key = document.createElement("button");
+                        key.className = "key";
+                        if (letter === "ENTER" || letter === "BACK") {
+                            key.classList.add("wide");
+                        }
+
+                        key.dataset.key = letter;
+                        key.type = "button";
+
+                        if (letter === "ENTER") {
+                            key.textContent = "ENTER";
+                        } else if (letter === "BACK") {
+                            key.innerHTML = "⌫";
+                        } else {
+                            key.textContent = letter;
+                        }
+
+                        key.addEventListener("click", () =>
+                            handleVirtualKey(letter),
+                        );
+                        row.appendChild(key);
+                    });
+                    keyboardEl.appendChild(row);
+                });
+            }
+
+            function setMessage(text, type = "") {
+                messageEl.textContent = text;
+                messageEl.className = "message";
+                if (type) {
+                    messageEl.classList.add(type);
+                }
+            }
+
+            function handleVirtualKey(key) {
+                if (isGameOver) return;
+                if (key === "ENTER") {
+                    submitGuess();
+                } else if (key === "BACK") {
+                    deleteLetter();
+                } else if (/^[А-ЯЁ]$/.test(key)) {
+                    addLetter(key);
+                }
+            }
+
+            function addLetter(letter) {
+                if (currentCol >= WORD_LENGTH || currentRow >= MAX_TRIES)
+                    return;
+                const cell = cells[currentRow][currentCol];
+                cell.textContent = letter;
+                cell.classList.add("filled");
+                currentCol++;
+                setMessage("");
+            }
+
+            function deleteLetter() {
+                if (currentCol === 0) return;
+                currentCol--;
+                const cell = cells[currentRow][currentCol];
+                cell.textContent = "";
+                cell.classList.remove("filled");
+                setMessage("");
+            }
+
+            function submitGuess() {
+                if (currentCol < WORD_LENGTH) {
+                    setMessage("Нужно 5 букв");
+                    return;
+                }
+
+                const guessLetters = cells[currentRow].map(
+                    (cell) => cell.textContent || " ",
+                );
+                const guessRaw = guessLetters.join("");
+                const guessNorm = normalize(guessRaw);
+
+                revealRow(guessLetters, guessNorm);
+
+                const isWin = guessNorm === SECRET;
+
+                if (isWin) {
+                    isGameOver = true;
+                    setMessage("Угадали! 🎉 Слово: " + RAW_SECRET, "win");
+                    return;
+                }
+
+                currentRow++;
+                currentCol = 0;
+
+                if (currentRow >= MAX_TRIES) {
+                    isGameOver = true;
+                    setMessage(
+                        "Попытки кончились. Было слово: " + RAW_SECRET,
+                        "lose",
+                    );
+                }
+            }
+
+            function revealRow(guessLetters, guessNorm) {
+                const result = new Array(WORD_LENGTH).fill("absent");
+                const targetCounts = {};
+
+                for (let i = 0; i < WORD_LENGTH; i++) {
+                    const ch = SECRET[i];
+                    targetCounts[ch] = (targetCounts[ch] || 0) + 1;
+                }
+
+                // Сначала зелёные
+                for (let i = 0; i < WORD_LENGTH; i++) {
+                    if (guessNorm[i] === SECRET[i]) {
+                        result[i] = "correct";
+                        targetCounts[guessNorm[i]]--;
+                    }
+                }
+
+                // Затем жёлтые
+                for (let i = 0; i < WORD_LENGTH; i++) {
+                    if (result[i] !== "correct") {
+                        const ch = guessNorm[i];
+                        if (targetCounts[ch] > 0) {
+                            result[i] = "present";
+                            targetCounts[ch]--;
+                        }
+                    }
+                }
+
+                for (let i = 0; i < WORD_LENGTH; i++) {
+                    const cell = cells[currentRow][i];
+                    const status = result[i];
+                    setTimeout(() => {
+                        cell.classList.add("reveal");
+                        cell.classList.add(status);
+                    }, i * 180);
+                    updateKeyStatus(guessLetters[i], guessNorm[i], status);
+                }
+            }
+
+            function updateKeyStatus(letterRaw, letterNorm, status) {
+                const keys = keyboardEl.querySelectorAll(".key");
+                keys.forEach((key) => {
+                    const val = key.dataset.key;
+                    if (!val || val === "ENTER" || val === "BACK") return;
+
+                    const keyNorm = normalize(val);
+                    if (keyNorm !== letterNorm) return;
+
+                    if (status === "absent" && !SECRET.includes(letterNorm)) {
+                        key.classList.add("disabled", "absent");
+                    } else {
+                        const currentPriority = key.classList.contains(
+                            "correct",
+                        )
+                            ? 2
+                            : key.classList.contains("present")
+                              ? 1
+                              : 0;
+                        const newPriority =
+                            status === "correct"
+                                ? 2
+                                : status === "present"
+                                  ? 1
+                                  : 0;
+                        if (newPriority > currentPriority) {
+                            key.classList.remove(
+                                "correct",
+                                "present",
+                                "absent",
+                            );
+                            if (
+                                status === "correct" ||
+                                status === "present" ||
+                                status === "absent"
+                            ) {
+                                key.classList.add(status);
+                            }
+                        }
+                    }
+                });
+            }
+
+            // Поддержка физической клавиатуры (Bluetooth и пр.)
+            window.addEventListener("keydown", (e) => {
+                if (isGameOver) return;
+                const key = e.key.toUpperCase();
+                if (key === "ENTER") {
+                    e.preventDefault();
+                    submitGuess();
+                } else if (key === "BACKSPACE") {
+                    e.preventDefault();
+                    deleteLetter();
+                } else {
+                    // Пробуем сопоставить английскую раскладку -> русскую? Нет, только русские символы.
+                    if (/^[А-ЯЁ]$/.test(key)) {
+                        addLetter(key);
+                    }
+                }
+            });
+
+            createBoard();
+            createKeyboard();
+            setMessage("Загадано русское слово из 5 букв.");
+        </script>
+    </body>
+</html>
