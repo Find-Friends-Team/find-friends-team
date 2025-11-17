@@ -3493,6 +3493,17 @@
     },
     {
       "icon": "question_mark_outlined",
+      "name": "Special — Ice Cream: Extra Flavor",
+      "color": "blue",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "lightBlue"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
       "name": "Special — Puzzle: 2021 Fall Memories",
       "color": "white",
       "isSeasonal": true,
@@ -4624,17 +4635,6 @@
         },
         {
           "id": 8,
-          "color": "lightBlue"
-        }
-      ]
-    },
-    {
-      "icon": "question_mark_outlined",
-      "name": "Special — Ice Cream: Extra Flavor",
-      "color": "blue",
-      "pikmins": [
-        {
-          "id": 1,
           "color": "lightBlue"
         }
       ]
