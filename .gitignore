@@ -9,3 +9,4 @@ vendor/
 
 # Ignore Idea files
 .idea/
+.DS_Store
