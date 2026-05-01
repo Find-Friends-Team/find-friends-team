@@ -3949,8 +3949,8 @@
       "name": "Special — Playing Card (red)",
       "color": "red",
       "isSeasonal": true,
-      "seasonStart": "2025-05-01",
-      "seasonEnd": "2025-06-07",
+      "seasonStart": "2026-05-01",
+      "seasonEnd": "2026-06-05",
       "pikmins": [
         {
           "id": 1,
@@ -3975,8 +3975,8 @@
       "name": "Special — Playing Card (yellow)",
       "color": "yellow",
       "isSeasonal": true,
-      "seasonStart": "2025-05-01",
-      "seasonEnd": "2025-06-07",
+      "seasonStart": "2026-05-01",
+      "seasonEnd": "2026-06-05",
       "pikmins": [
         {
           "id": 1,
@@ -4001,8 +4001,8 @@
       "name": "Special — Playing Card (blue)",
       "color": "blue",
       "isSeasonal": true,
-      "seasonStart": "2025-05-01",
-      "seasonEnd": "2025-06-07",
+      "seasonStart": "2026-05-01",
+      "seasonEnd": "2026-06-05",
       "pikmins": [
         {
           "id": 1,
@@ -4027,8 +4027,8 @@
       "name": "Special — Playing Card (white)",
       "color": "white",
       "isSeasonal": true,
-      "seasonStart": "2025-05-01",
-      "seasonEnd": "2025-06-07",
+      "seasonStart": "2026-05-01",
+      "seasonEnd": "2026-06-05",
       "pikmins": [
         {
           "id": 1,
@@ -4049,8 +4049,8 @@
       "name": "Special — Playing Card (purple)",
       "color": "purple",
       "isSeasonal": true,
-      "seasonStart": "2025-05-01",
-      "seasonEnd": "2025-06-07",
+      "seasonStart": "2026-05-01",
+      "seasonEnd": "2026-06-05",
       "pikmins": [
         {
           "id": 1,
@@ -4075,8 +4075,8 @@
       "name": "Special — Playing Card (grey)",
       "color": "grey",
       "isSeasonal": true,
-      "seasonStart": "2025-05-01",
-      "seasonEnd": "2025-06-07",
+      "seasonStart": "2026-05-01",
+      "seasonEnd": "2026-06-05",
       "pikmins": [
         {
           "id": 1,
@@ -4101,8 +4101,8 @@
       "name": "Special — Playing Card (pink)",
       "color": "pink",
       "isSeasonal": true,
-      "seasonStart": "2025-05-01",
-      "seasonEnd": "2025-06-07",
+      "seasonStart": "2026-05-01",
+      "seasonEnd": "2026-06-05",
       "pikmins": [
         {
           "id": 1,
@@ -4485,8 +4485,8 @@
       "icon": "question_mark_outlined",
       "name": "Special — Nintendo Consoles '80–'90",
       "isSeasonal": true,
-      "seasonStart": "2025-10-29",
-      "seasonEnd": "2025-11-05",
+      "seasonStart": "2026-05-01",
+      "seasonEnd": "2026-06-05",
       "color": "grey",
       "pikmins": [
         {
@@ -4985,6 +4985,48 @@
       "isSeasonal": true,
       "seasonStart": "2026-04-01",
       "seasonEnd": "2026-05-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        },
+        {
+          "id": 8,
+          "color": "lightBlue"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Game Pak",
+      "color": "green",
+      "isSeasonal": true,
+      "seasonStart": "2026-05-01",
+      "seasonEnd": "2026-06-07",
       "pikmins": [
         {
           "id": 1,
