@@ -4256,6 +4256,10 @@
         {
           "id": 2,
           "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "purple"
         }
       ]
     },
